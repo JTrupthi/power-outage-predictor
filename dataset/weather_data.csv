@@ -1,0 +1,3001 @@
+district,rainfall,humidity,wind_speed,temperature,lightning,risk
+Davanagere,317.95,74,14.23,22.87,17,Medium
+Hassan,193.83,40,20.96,39.99,23,Medium
+Udupi,173.68,93,28.65,36.39,9,Medium
+Davanagere,242.08,100,50.66,36.02,3,Medium
+Yadgir,80.08,100,56.29,38.79,22,Medium
+Vijayanagara,21.5,60,9.33,27.59,10,Low
+Ballari,281.43,54,51.08,30.93,4,Medium
+Belagavi,135.53,60,11.89,24.51,4,Low
+Chamarajanagar,106.41,31,49.63,25.63,15,Medium
+Chikkaballapur,261.15,67,9.39,40.33,18,Medium
+Udupi,118.64,81,46.65,32.88,22,Medium
+Mandya,293.93,95,6.33,38.28,15,Medium
+Kodagu,47.67,72,48.63,30.34,25,Medium
+Chamarajanagar,256.04,41,53.78,19.9,20,High
+Bengaluru Rural,105.98,37,58.96,21.53,8,Medium
+Mandya,325.66,92,3.49,27.69,25,Medium
+Udupi,36.41,72,35.55,20.76,13,Medium
+Kalaburagi,74.38,92,41.24,40.8,7,Medium
+Ramanagara,152.06,70,39.53,33.62,21,Medium
+Kolar,172.9,67,7.99,22.32,12,Low
+Mandya,116.39,31,35.14,28.85,19,Medium
+Yadgir,10.38,51,20.41,33.15,17,Medium
+Bagalkot,276.04,75,16.39,32.85,2,Low
+Kalaburagi,304.71,31,11.89,35.58,4,Low
+Vijayapura,176.17,56,46.54,37.04,15,Medium
+Hassan,219.84,30,26.19,23.65,7,Medium
+Chitradurga,146.37,54,27.19,25.66,15,Medium
+Bagalkot,86.26,40,0.55,21.92,5,Low
+Chitradurga,141.78,58,44.11,37.37,1,Medium
+Davanagere,30.5,93,27.82,31.01,19,Medium
+Vijayanagara,66.97,83,12.22,29.46,21,Medium
+Bidar,141.79,52,7.83,33.86,14,Medium
+Vijayanagara,133.89,70,0.93,35.39,18,Medium
+Bengaluru Urban,226.68,68,15.73,39.98,16,Medium
+Bengaluru Urban,193.08,95,20.37,41.88,17,Medium
+Kalaburagi,171.26,71,20.76,29.6,3,Low
+Udupi,344.95,71,45.16,30.43,7,Medium
+Ramanagara,212.33,32,23.07,32.13,22,Medium
+Koppal,35.99,61,51.39,24.54,5,Low
+Udupi,100.72,92,9.2,37.25,9,Low
+Bidar,131.77,66,44.41,41.21,23,Medium
+Haveri,341.2,74,45.45,37.53,18,High
+Mandya,304.18,37,52.55,18.32,25,High
+Ballari,339.96,38,1.91,23.67,17,Medium
+Bagalkot,196.7,78,47.03,23.42,21,Medium
+Bagalkot,337.23,41,8.59,27.58,20,Medium
+Bagalkot,96.61,69,33.41,40.84,1,Low
+Chamarajanagar,303.57,76,33.22,27.23,24,Medium
+Ramanagara,250.36,37,1.44,20.19,10,Medium
+Bengaluru Rural,319.27,42,33.82,26.25,25,Medium
+Udupi,316.67,72,4.32,23.89,8,Medium
+Chitradurga,20.49,54,48.42,32.38,12,Medium
+Mysuru,167.94,41,37.42,39.49,17,Medium
+Koppal,33.73,70,54.98,41.68,16,Medium
+Vijayanagara,279.04,89,30.61,25.46,4,Medium
+Haveri,213.06,75,28.46,20.59,2,Low
+Haveri,266.65,74,48.92,23.13,13,High
+Vijayapura,251.74,67,32.81,25.07,12,Medium
+Belagavi,164.23,85,34.24,31.01,16,Medium
+Yadgir,186.46,51,32.84,36.65,18,Medium
+Chitradurga,185.21,73,46.73,35.01,22,Medium
+Yadgir,323.25,37,39.07,23.34,23,High
+Hassan,340.11,99,41.0,35.06,7,High
+Mangaluru,12.22,81,52.3,28.23,16,Medium
+Vijayapura,135.6,54,43.77,38.12,3,Medium
+Chitradurga,249.85,85,22.02,26.73,25,High
+Mysuru,310.55,43,32.53,26.89,3,Medium
+Davanagere,167.15,33,37.42,31.58,6,Medium
+Chitradurga,177.32,57,24.1,31.49,5,Low
+Mandya,4.07,59,59.63,40.87,4,Low
+Kalaburagi,301.2,63,11.56,37.37,11,Medium
+Chitradurga,337.12,88,6.9,38.57,15,Medium
+Bidar,266.54,49,6.25,36.82,11,Medium
+Tumakuru,84.12,49,51.81,36.91,4,Low
+Ramanagara,153.52,93,40.83,27.71,10,Medium
+Raichur,8.58,43,9.55,35.3,0,Low
+Tumakuru,226.93,92,19.72,25.17,0,Medium
+Kodagu,184.99,51,52.21,31.86,15,Medium
+Raichur,234.5,79,18.56,30.72,9,Medium
+Kalaburagi,265.94,91,14.03,40.17,0,Medium
+Chamarajanagar,223.73,92,4.86,25.74,20,Medium
+Yadgir,227.93,72,43.5,20.05,14,High
+Chikkamagaluru,277.9,77,51.12,31.66,20,High
+Chikkamagaluru,126.13,83,22.18,19.52,15,Medium
+Chikkamagaluru,106.03,81,46.55,26.75,25,Medium
+Bagalkot,261.36,60,5.19,21.39,9,Medium
+Dharwad,217.44,78,6.2,30.42,13,Medium
+Ballari,172.71,69,7.25,19.12,6,Low
+Haveri,298.79,36,49.32,23.71,11,Medium
+Bidar,193.51,88,44.74,18.42,6,Medium
+Raichur,344.95,92,41.76,39.44,6,High
+Haveri,28.22,98,14.28,41.91,13,Medium
+Ramanagara,290.8,66,5.75,36.07,16,Medium
+Tumakuru,263.5,98,11.11,30.87,11,Medium
+Kodagu,164.02,66,22.69,29.12,10,Medium
+Raichur,56.71,95,3.39,32.1,19,Medium
+Vijayanagara,112.99,39,9.27,40.78,9,Low
+Kodagu,238.37,63,54.61,32.0,9,Medium
+Dharwad,118.39,34,43.42,35.0,14,Medium
+Bagalkot,348.33,73,40.71,34.46,2,Medium
+Koppal,244.61,56,14.26,34.36,5,Low
+Bengaluru Urban,328.73,57,0.33,23.73,21,Medium
+Dharwad,347.29,100,24.66,22.75,20,High
+Shivamogga,105.17,34,37.0,18.66,18,Medium
+Bagalkot,330.79,74,20.41,36.47,19,Medium
+Bengaluru Urban,225.94,54,38.94,20.78,18,High
+Mandya,90.66,75,19.68,18.22,16,Low
+Chikkaballapur,92.24,43,45.67,26.05,25,Medium
+Vijayapura,226.54,94,44.06,22.43,20,High
+Bidar,3.0,88,47.93,30.52,7,Medium
+Kodagu,317.77,94,2.21,23.95,0,Medium
+Bengaluru Urban,224.91,60,48.92,28.42,13,High
+Mysuru,328.72,68,5.38,41.93,2,Low
+Ballari,175.24,35,27.17,34.4,22,Medium
+Dharwad,67.47,63,22.74,20.29,2,Low
+Ballari,114.1,83,29.02,19.52,20,Medium
+Bidar,334.97,57,57.03,25.25,10,Medium
+Davanagere,61.67,98,0.15,41.2,9,Low
+Kolar,231.53,34,23.83,31.62,10,Medium
+Kodagu,282.68,51,36.52,40.4,18,High
+Bidar,214.44,45,26.32,26.69,2,Low
+Dharwad,326.87,41,52.2,26.55,13,High
+Mandya,156.4,62,34.03,34.77,5,Low
+Chitradurga,183.69,37,54.56,35.32,20,Medium
+Vijayapura,141.89,41,20.58,22.83,23,Medium
+Koppal,203.47,44,32.0,30.6,6,Medium
+Vijayanagara,49.66,52,5.96,41.4,9,Low
+Kodagu,143.2,84,35.94,31.07,15,High
+Ballari,141.51,65,32.41,33.42,12,Medium
+Yadgir,26.92,69,32.24,41.16,9,Low
+Chikkamagaluru,113.67,32,52.99,20.23,24,Medium
+Gadag,224.43,64,35.48,34.71,6,Medium
+Bengaluru Rural,96.52,83,20.95,32.76,11,Medium
+Tumakuru,149.46,35,23.3,23.2,18,Medium
+Bengaluru Urban,142.29,63,17.65,27.22,1,Low
+Chamarajanagar,207.42,69,32.91,37.42,10,Medium
+Koppal,269.05,97,45.56,36.31,25,High
+Koppal,152.15,73,14.99,27.29,22,Medium
+Davanagere,146.36,63,10.07,40.72,18,Medium
+Shivamogga,17.24,50,56.23,26.19,4,Low
+Kodagu,161.61,66,40.44,21.31,11,Medium
+Uttara Kannada,62.79,34,38.27,20.15,12,Medium
+Yadgir,122.6,97,36.29,40.4,25,High
+Gadag,111.73,96,38.73,24.79,11,Medium
+Vijayapura,165.32,54,19.56,28.31,0,Low
+Bagalkot,319.78,95,2.94,29.41,25,Medium
+Bengaluru Rural,8.43,61,4.81,30.7,1,Low
+Haveri,64.46,78,41.31,27.43,16,Medium
+Kodagu,157.51,87,49.84,26.52,23,High
+Mangaluru,324.81,84,14.26,22.4,14,Medium
+Bengaluru Rural,67.57,45,30.85,29.66,23,Medium
+Bengaluru Urban,325.0,90,35.85,28.48,12,High
+Bidar,186.92,82,50.53,39.74,24,High
+Davanagere,338.48,67,58.94,32.25,17,High
+Chitradurga,324.06,85,7.85,39.41,17,Medium
+Belagavi,146.98,36,11.02,30.87,11,Low
+Davanagere,243.19,96,54.03,33.1,19,High
+Ramanagara,161.62,90,9.14,39.48,3,Low
+Belagavi,266.09,81,14.59,33.2,23,Medium
+Raichur,75.18,49,46.45,41.72,19,Medium
+Kalaburagi,119.27,85,59.92,18.02,9,Medium
+Chitradurga,341.84,69,10.51,24.6,17,Medium
+Chitradurga,69.43,91,31.84,27.0,12,Medium
+Ballari,185.16,75,42.34,26.85,3,Medium
+Bagalkot,100.22,75,4.31,22.23,5,Low
+Vijayapura,247.34,60,54.51,34.46,24,High
+Mandya,197.03,87,46.64,33.06,16,High
+Chitradurga,101.12,92,34.01,37.8,10,Medium
+Mangaluru,79.41,92,9.29,36.66,25,Medium
+Chamarajanagar,32.64,79,10.19,36.31,6,Low
+Bagalkot,22.62,77,10.38,23.71,25,Low
+Koppal,50.05,49,34.74,18.43,23,Medium
+Tumakuru,170.57,76,1.99,20.15,15,Medium
+Belagavi,57.83,65,43.61,26.96,23,Medium
+Mysuru,243.01,30,37.13,39.87,1,Medium
+Ballari,170.6,42,11.84,19.28,10,Low
+Kodagu,241.95,87,4.0,32.67,25,Medium
+Chitradurga,166.82,98,17.87,41.95,17,Medium
+Tumakuru,184.83,86,42.12,30.8,1,Medium
+Uttara Kannada,187.31,83,9.0,33.5,19,Medium
+Bengaluru Urban,58.0,35,58.28,39.85,23,Medium
+Haveri,339.01,52,56.37,33.21,14,High
+Kodagu,57.31,60,21.73,19.51,21,Medium
+Chamarajanagar,342.93,84,5.84,25.35,10,Medium
+Mysuru,191.32,40,6.04,36.81,10,Low
+Haveri,97.95,49,32.06,34.06,19,Medium
+Chamarajanagar,46.16,39,24.45,26.72,2,Low
+Chitradurga,192.59,54,37.6,39.61,17,Medium
+Bengaluru Rural,40.9,65,57.31,18.39,22,Medium
+Bidar,289.28,30,32.58,22.53,9,Medium
+Chamarajanagar,144.62,73,51.28,34.73,3,Medium
+Ballari,226.59,85,1.67,18.21,24,Medium
+Yadgir,148.66,64,33.01,38.03,9,Medium
+Hassan,247.59,67,11.66,26.09,21,Medium
+Bengaluru Rural,220.47,32,53.82,27.16,1,Medium
+Raichur,151.1,31,23.42,38.08,5,Low
+Hassan,35.21,42,11.03,27.49,6,Low
+Chitradurga,268.84,73,46.8,40.48,23,High
+Vijayapura,325.62,63,3.99,39.78,4,Low
+Bengaluru Rural,68.13,89,3.9,32.64,24,Medium
+Mangaluru,183.31,44,34.12,36.5,15,Medium
+Yadgir,336.44,93,3.16,35.3,22,Medium
+Kodagu,58.11,80,5.66,40.67,6,Low
+Koppal,199.28,95,1.38,31.08,9,Medium
+Yadgir,15.22,54,37.84,40.97,22,Medium
+Bidar,179.54,32,16.0,20.41,8,Low
+Belagavi,272.05,37,21.03,30.89,20,Medium
+Yadgir,346.46,97,56.81,38.59,21,High
+Uttara Kannada,313.85,86,53.48,34.42,15,High
+Kodagu,70.28,61,56.75,35.35,19,Medium
+Chikkaballapur,123.39,42,35.41,31.44,24,Medium
+Bagalkot,343.0,90,44.43,31.78,6,High
+Chikkamagaluru,206.05,88,47.42,33.08,16,High
+Dharwad,107.87,32,12.88,32.9,22,Low
+Kolar,134.8,61,40.72,22.4,21,Medium
+Koppal,240.76,88,2.28,33.64,1,Medium
+Chikkaballapur,297.67,68,49.07,26.19,2,Medium
+Udupi,313.65,41,16.17,36.25,25,Medium
+Chikkaballapur,243.5,63,42.54,27.41,2,Medium
+Bengaluru Urban,75.38,100,12.34,20.46,12,Low
+Chikkamagaluru,337.91,92,23.17,41.99,7,Medium
+Ballari,92.59,79,24.55,38.29,25,Medium
+Yadgir,260.27,69,24.01,23.71,1,Medium
+Chitradurga,180.15,35,6.9,18.16,15,Medium
+Udupi,272.21,92,24.17,22.61,1,Medium
+Vijayanagara,214.92,48,29.95,31.83,20,Medium
+Gadag,311.34,35,12.11,32.35,12,Medium
+Ramanagara,19.08,92,48.78,30.15,11,Medium
+Kolar,243.09,59,4.45,18.7,14,Medium
+Tumakuru,58.26,42,27.05,22.06,11,Low
+Kodagu,19.34,97,34.86,23.95,2,Low
+Kolar,134.53,41,24.14,33.23,25,Medium
+Udupi,62.88,40,39.0,31.08,21,Medium
+Bengaluru Rural,59.36,87,41.71,30.13,1,Medium
+Bengaluru Urban,0.89,86,54.62,22.74,10,Medium
+Chamarajanagar,27.38,75,9.73,25.31,13,Low
+Uttara Kannada,330.59,36,41.58,35.66,19,High
+Ballari,231.79,73,30.91,34.51,20,Medium
+Chikkaballapur,96.9,60,51.59,39.09,24,Medium
+Vijayapura,104.4,67,2.98,29.78,22,Low
+Vijayapura,186.73,31,37.8,38.06,12,Medium
+Gadag,78.89,63,9.55,29.11,10,Low
+Ramanagara,287.63,43,41.31,35.56,14,High
+Chitradurga,87.43,32,4.24,26.97,4,Low
+Uttara Kannada,183.46,86,20.56,19.62,11,Medium
+Kalaburagi,32.91,35,11.21,23.28,22,Low
+Hassan,165.4,86,15.06,33.56,11,Medium
+Chamarajanagar,201.22,100,2.34,32.56,16,Medium
+Kodagu,214.16,64,33.2,24.09,6,Medium
+Vijayanagara,337.44,58,37.65,20.17,1,Medium
+Kolar,262.06,89,10.05,38.68,11,Medium
+Yadgir,143.79,36,36.29,27.15,6,Medium
+Tumakuru,169.37,68,2.34,39.62,18,Medium
+Mangaluru,160.16,83,1.04,30.82,23,Medium
+Chikkamagaluru,180.91,48,53.01,31.01,2,Medium
+Ramanagara,265.98,85,31.4,29.13,11,Medium
+Kodagu,41.03,71,34.32,40.92,7,Low
+Chamarajanagar,208.81,68,48.94,37.1,21,Medium
+Chikkaballapur,64.96,72,33.63,33.9,14,Medium
+Tumakuru,160.62,47,57.76,30.07,2,Medium
+Chikkaballapur,19.69,76,49.68,37.46,23,Medium
+Udupi,101.92,40,25.84,39.88,19,Medium
+Hassan,197.71,63,49.67,31.45,15,Medium
+Mangaluru,98.04,46,23.79,36.84,23,Medium
+Ballari,219.18,79,24.82,29.49,7,Medium
+Bengaluru Urban,343.33,49,57.39,27.88,10,Medium
+Mysuru,221.54,76,1.6,41.16,15,Medium
+Belagavi,273.86,84,36.38,19.11,17,High
+Tumakuru,290.07,50,20.62,40.09,17,Medium
+Bengaluru Rural,286.92,93,10.61,29.87,14,Medium
+Bidar,133.88,53,47.99,26.37,5,Medium
+Chamarajanagar,326.15,31,57.36,24.13,9,Medium
+Bengaluru Urban,20.54,90,39.94,23.33,18,Medium
+Shivamogga,225.85,48,39.44,28.47,0,Medium
+Dharwad,51.42,82,1.95,23.2,1,Low
+Bidar,226.9,33,51.72,40.6,16,High
+Chikkaballapur,44.9,46,29.57,20.06,22,Medium
+Gadag,78.29,80,53.99,36.4,16,Medium
+Bengaluru Urban,51.02,47,8.4,40.23,15,Low
+Kolar,272.88,85,27.68,40.19,9,Medium
+Udupi,121.76,79,53.92,32.8,13,Medium
+Raichur,27.22,55,17.21,40.39,15,Low
+Mandya,123.64,32,26.18,20.39,24,Medium
+Tumakuru,29.44,65,41.59,39.6,24,Medium
+Uttara Kannada,316.31,58,30.27,41.09,25,Medium
+Koppal,71.04,45,27.58,27.21,6,Low
+Kolar,5.33,37,13.18,29.73,10,Low
+Gadag,74.44,39,15.57,25.01,7,Low
+Uttara Kannada,39.18,54,54.07,35.7,10,Medium
+Udupi,263.8,94,39.6,40.42,8,High
+Dharwad,277.81,95,29.05,28.72,2,Medium
+Raichur,143.89,65,18.28,39.63,11,Low
+Gadag,147.38,55,51.72,25.3,9,Medium
+Bengaluru Rural,61.66,99,20.25,38.62,17,Medium
+Shivamogga,173.5,98,43.97,19.02,14,High
+Mandya,266.04,92,59.95,22.57,8,High
+Chikkamagaluru,210.54,61,42.85,27.8,18,Medium
+Hassan,149.07,42,51.86,40.72,24,Medium
+Kolar,257.91,37,30.86,22.68,22,Medium
+Belagavi,187.77,52,41.7,26.32,25,Medium
+Vijayapura,302.75,66,28.49,19.69,20,Medium
+Mysuru,259.55,66,0.38,40.37,1,Low
+Bidar,177.73,93,21.8,18.32,20,Medium
+Ballari,289.04,54,9.48,26.04,5,Low
+Vijayanagara,21.78,88,15.6,34.66,18,Medium
+Chitradurga,70.55,76,43.81,39.79,17,Medium
+Davanagere,116.34,42,25.52,27.4,1,Low
+Tumakuru,281.93,44,20.25,39.83,6,Medium
+Shivamogga,23.61,74,53.62,30.91,17,Medium
+Mysuru,329.04,78,13.61,32.33,5,Low
+Chikkamagaluru,162.7,66,16.57,25.45,10,Low
+Chitradurga,60.84,49,2.05,19.39,12,Low
+Vijayanagara,274.94,39,3.32,31.68,11,Medium
+Chamarajanagar,211.27,52,2.55,33.73,15,Medium
+Mangaluru,27.1,59,26.99,33.67,22,Medium
+Ballari,99.76,34,56.35,22.0,23,Medium
+Koppal,145.44,41,38.92,40.82,15,Medium
+Yadgir,272.07,90,30.0,28.28,18,High
+Vijayanagara,60.39,85,32.98,31.17,15,Medium
+Yadgir,281.33,34,56.37,20.45,1,Medium
+Bidar,131.23,46,32.35,30.94,9,Medium
+Bengaluru Urban,148.86,65,24.61,22.32,9,Medium
+Koppal,8.59,90,19.26,25.28,22,Medium
+Koppal,61.53,68,13.06,18.65,4,Low
+Gadag,5.24,100,24.35,21.95,22,Medium
+Shivamogga,207.47,83,18.9,40.06,14,Medium
+Uttara Kannada,160.5,63,6.08,29.11,12,Low
+Kolar,110.95,92,43.49,36.38,4,Medium
+Bengaluru Rural,109.05,44,19.09,38.19,17,Low
+Bagalkot,193.87,82,54.15,24.57,3,Medium
+Mysuru,53.2,84,20.65,41.1,3,Low
+Bagalkot,27.0,56,23.81,20.86,23,Medium
+Haveri,192.46,83,24.2,21.03,22,Medium
+Bengaluru Rural,183.97,32,22.23,24.38,23,Medium
+Mysuru,98.07,80,29.74,28.44,10,Low
+Kolar,127.4,84,51.77,39.88,5,Medium
+Chamarajanagar,227.26,60,11.2,18.95,17,Medium
+Bengaluru Rural,172.46,51,51.54,38.63,6,Medium
+Chikkamagaluru,49.52,68,9.66,31.55,7,Low
+Mysuru,32.4,46,6.87,38.6,21,Low
+Belagavi,7.76,77,6.78,35.22,20,Low
+Bengaluru Urban,171.22,43,6.99,28.41,17,Medium
+Belagavi,7.36,100,28.92,26.13,11,Medium
+Tumakuru,294.73,83,58.22,36.75,7,High
+Bagalkot,207.94,86,28.9,19.37,3,Medium
+Kalaburagi,296.19,100,49.21,23.21,23,High
+Uttara Kannada,321.57,98,9.75,34.5,13,Medium
+Belagavi,3.26,54,3.87,23.1,23,Low
+Davanagere,269.5,44,10.14,39.45,20,Medium
+Mangaluru,79.07,50,0.08,26.81,7,Low
+Vijayapura,18.08,67,52.78,33.68,16,Medium
+Bengaluru Rural,140.82,54,19.97,35.88,13,Medium
+Tumakuru,51.93,38,54.07,23.58,1,Low
+Chamarajanagar,113.04,91,45.05,20.14,4,Medium
+Uttara Kannada,149.01,49,15.05,41.14,22,Medium
+Ballari,130.14,36,48.35,19.69,16,Medium
+Uttara Kannada,240.74,61,20.08,26.98,25,Medium
+Kalaburagi,129.98,68,54.67,21.31,0,Medium
+Vijayapura,215.32,86,19.27,29.44,1,Low
+Hassan,228.4,34,32.38,20.51,12,Medium
+Davanagere,44.97,71,9.52,31.77,24,Low
+Bagalkot,308.78,98,58.55,32.45,4,Medium
+Kalaburagi,155.69,49,10.27,18.66,24,Medium
+Koppal,334.73,67,39.6,22.11,19,High
+Davanagere,333.66,95,0.05,33.02,9,Medium
+Chamarajanagar,44.11,41,24.03,36.72,7,Low
+Kolar,30.92,63,22.56,30.18,11,Low
+Shivamogga,153.95,72,11.07,28.25,12,Low
+Tumakuru,140.68,36,23.83,34.1,2,Low
+Raichur,181.98,65,32.78,38.65,1,Low
+Chikkaballapur,107.3,85,30.7,29.53,8,Medium
+Haveri,235.63,85,33.87,23.4,17,High
+Gadag,162.87,32,58.81,21.22,16,Medium
+Tumakuru,189.05,33,39.46,26.97,9,Medium
+Vijayanagara,86.23,94,28.0,19.72,5,Low
+Davanagere,251.25,65,28.62,23.65,13,Medium
+Mysuru,283.16,92,54.72,35.16,17,High
+Mangaluru,207.51,84,57.96,21.92,14,High
+Kalaburagi,47.34,77,33.34,23.7,14,Medium
+Raichur,62.13,94,28.6,31.5,2,Low
+Chikkaballapur,118.69,35,24.31,24.51,14,Medium
+Bidar,27.03,73,36.52,27.38,9,Medium
+Belagavi,151.54,82,26.8,28.84,12,Medium
+Hassan,265.78,50,58.52,31.99,11,Medium
+Kolar,100.0,69,51.0,37.65,9,Medium
+Belagavi,224.19,37,43.95,41.82,10,Medium
+Chitradurga,172.09,55,56.08,24.82,15,Medium
+Kolar,89.63,31,26.85,27.59,6,Low
+Dharwad,27.56,61,55.67,19.03,4,Low
+Mangaluru,12.34,74,34.87,31.47,21,Medium
+Gadag,322.7,74,55.04,31.08,24,High
+Chikkaballapur,83.56,48,1.04,26.72,11,Low
+Haveri,67.15,99,58.65,27.45,7,Medium
+Uttara Kannada,254.37,34,58.13,26.7,5,Medium
+Vijayanagara,53.39,84,18.61,23.62,1,Low
+Shivamogga,16.87,63,1.39,37.2,10,Low
+Vijayanagara,349.58,78,46.54,23.45,4,Medium
+Raichur,152.03,82,20.85,38.28,20,Medium
+Chamarajanagar,287.2,61,28.16,30.61,16,Medium
+Uttara Kannada,39.73,62,1.51,41.12,4,Low
+Tumakuru,67.99,34,12.14,18.64,21,Low
+Vijayanagara,51.39,36,51.89,21.52,3,Low
+Yadgir,30.77,81,41.42,34.34,24,Medium
+Haveri,41.2,60,16.96,36.0,2,Low
+Koppal,310.23,90,44.88,19.72,16,High
+Hassan,115.12,72,42.69,27.08,21,Medium
+Chikkamagaluru,208.84,39,59.97,30.69,2,Medium
+Mangaluru,326.19,56,51.25,34.78,0,Medium
+Vijayanagara,92.83,88,37.54,35.23,17,Medium
+Ballari,110.78,36,21.41,34.0,2,Low
+Chikkamagaluru,216.87,37,26.31,18.42,4,Low
+Uttara Kannada,11.52,42,46.58,29.33,6,Medium
+Gadag,162.21,54,21.3,23.16,20,Medium
+Hassan,71.99,46,38.51,24.92,23,Medium
+Mysuru,83.77,88,10.45,31.71,16,Medium
+Bagalkot,253.5,47,39.12,29.82,7,Medium
+Davanagere,296.91,66,50.11,34.55,21,High
+Dharwad,54.16,99,44.07,32.31,18,Medium
+Ballari,319.19,89,29.53,28.1,12,Medium
+Bidar,111.5,30,50.9,31.13,9,Medium
+Ballari,269.7,71,53.41,37.49,25,High
+Shivamogga,180.81,44,1.85,19.2,18,Medium
+Udupi,65.54,62,37.67,32.41,13,Medium
+Kodagu,123.24,78,4.08,41.18,10,Low
+Chikkamagaluru,78.53,58,41.49,20.47,24,Medium
+Vijayapura,142.34,87,54.64,25.57,4,Medium
+Vijayapura,63.7,51,6.02,23.21,23,Low
+Shivamogga,197.2,87,34.05,19.88,25,Medium
+Kodagu,347.65,42,3.86,31.9,18,Medium
+Belagavi,205.0,62,13.35,41.35,23,Medium
+Mangaluru,14.5,63,33.0,33.16,1,Low
+Koppal,187.47,64,30.53,31.1,8,Medium
+Haveri,296.79,57,54.22,36.68,25,High
+Chikkamagaluru,258.54,98,17.4,28.97,13,Medium
+Hassan,217.03,37,53.42,39.69,12,Medium
+Tumakuru,278.11,32,23.78,30.12,21,Medium
+Mangaluru,344.16,81,58.13,35.2,13,High
+Koppal,134.76,59,21.43,32.37,4,Low
+Koppal,209.97,65,2.89,27.68,18,Medium
+Uttara Kannada,37.23,85,38.67,28.0,21,Medium
+Uttara Kannada,137.6,70,45.45,38.39,6,Medium
+Vijayanagara,67.52,59,17.71,41.03,13,Low
+Ballari,64.66,39,24.14,23.2,2,Low
+Vijayanagara,261.23,51,40.05,28.1,18,High
+Bidar,230.42,39,44.47,20.2,23,High
+Tumakuru,348.58,48,5.77,33.87,5,Low
+Bagalkot,226.74,30,12.06,20.52,25,Medium
+Kolar,91.27,88,28.48,36.26,12,Medium
+Ballari,312.25,51,31.74,33.58,0,Medium
+Bengaluru Urban,3.01,50,54.29,26.41,24,Medium
+Shivamogga,194.28,85,21.05,38.38,14,Medium
+Ramanagara,19.06,32,5.35,23.92,19,Low
+Yadgir,56.8,58,20.66,24.79,19,Medium
+Vijayanagara,174.51,79,17.78,28.51,12,Low
+Uttara Kannada,194.17,47,8.58,19.73,2,Low
+Kolar,8.84,94,47.61,27.61,19,Medium
+Hassan,231.37,73,37.09,33.31,25,High
+Chitradurga,306.38,54,36.73,30.01,25,High
+Vijayanagara,297.92,49,56.3,28.52,15,High
+Raichur,103.44,47,17.38,41.18,14,Low
+Uttara Kannada,145.06,83,36.91,36.91,18,High
+Bengaluru Urban,45.84,75,30.69,18.33,18,Medium
+Chitradurga,335.19,30,48.69,26.11,6,Medium
+Gadag,301.49,94,48.84,33.15,17,High
+Chikkamagaluru,155.21,86,8.64,41.71,10,Medium
+Kalaburagi,137.02,72,41.5,41.77,21,Medium
+Haveri,94.21,71,58.86,36.59,17,Medium
+Bengaluru Urban,341.2,97,58.74,30.11,1,Medium
+Ramanagara,198.73,30,30.35,18.42,23,Medium
+Bidar,93.26,86,36.91,30.76,9,Medium
+Chamarajanagar,145.65,77,10.82,37.21,22,Medium
+Chamarajanagar,13.09,46,3.78,22.81,10,Low
+Mysuru,148.34,73,53.48,31.13,17,Medium
+Haveri,124.6,33,24.18,29.5,8,Medium
+Bidar,262.69,47,44.32,34.36,10,Medium
+Chikkamagaluru,75.44,100,44.94,35.02,25,Medium
+Shivamogga,276.63,89,20.55,20.24,13,High
+Davanagere,247.63,61,2.06,41.79,17,Medium
+Chitradurga,42.47,46,31.28,33.87,18,Medium
+Bagalkot,253.41,37,56.43,32.49,19,High
+Haveri,105.94,59,40.56,30.74,6,Medium
+Tumakuru,122.05,76,38.58,31.45,13,Medium
+Chitradurga,135.73,86,54.85,41.52,22,High
+Haveri,52.81,84,37.02,22.19,5,Medium
+Kodagu,248.19,75,52.72,30.11,24,High
+Gadag,227.22,76,2.9,37.97,4,Low
+Bengaluru Rural,183.46,81,6.07,40.68,15,Medium
+Bidar,56.12,31,2.62,22.84,21,Low
+Bengaluru Urban,8.91,88,0.53,21.31,17,Medium
+Gadag,299.2,48,18.06,26.87,10,Medium
+Kalaburagi,317.38,82,51.79,20.52,4,Medium
+Kolar,168.4,56,0.07,38.87,7,Low
+Mandya,121.87,85,20.98,23.7,7,Medium
+Bidar,75.27,77,39.36,31.28,17,Medium
+Kalaburagi,86.61,62,57.69,39.36,13,Medium
+Chitradurga,332.27,62,55.52,37.38,21,High
+Udupi,285.42,78,40.02,31.01,24,High
+Chikkamagaluru,294.35,74,53.57,34.97,4,Medium
+Ballari,325.68,87,1.4,25.41,19,Medium
+Kalaburagi,157.17,87,2.33,25.72,21,Medium
+Uttara Kannada,349.4,95,29.44,22.1,24,High
+Haveri,270.44,90,20.39,20.82,19,High
+Davanagere,140.89,51,55.7,23.69,19,Medium
+Yadgir,347.79,38,14.1,20.61,20,Medium
+Kolar,62.55,67,1.74,33.82,2,Low
+Kodagu,343.26,39,38.15,23.62,19,High
+Chikkamagaluru,249.77,42,51.8,26.6,8,Medium
+Tumakuru,117.44,89,7.14,41.55,23,Medium
+Bidar,149.43,91,36.97,30.23,11,Medium
+Belagavi,162.31,77,56.19,30.76,20,Medium
+Chamarajanagar,86.57,74,33.67,22.03,13,Medium
+Davanagere,226.36,88,47.05,29.01,4,Medium
+Chikkaballapur,31.26,78,25.87,41.58,8,Low
+Mandya,313.54,47,22.47,25.31,23,Medium
+Chamarajanagar,80.35,98,34.6,30.87,18,Medium
+Belagavi,117.93,96,25.43,19.45,0,Low
+Tumakuru,168.67,91,33.63,38.29,17,Medium
+Kodagu,212.69,57,50.39,40.07,2,Medium
+Dharwad,344.31,71,13.13,41.16,4,Low
+Vijayanagara,113.24,92,42.79,36.3,16,Medium
+Haveri,242.62,41,37.52,36.54,6,Medium
+Mysuru,195.89,58,53.13,30.13,22,Medium
+Mangaluru,49.78,38,51.86,18.21,17,Medium
+Hassan,170.76,47,1.95,36.01,0,Low
+Koppal,293.75,90,3.39,35.53,16,Medium
+Ramanagara,124.7,69,33.4,38.54,22,Medium
+Chikkamagaluru,183.89,64,46.73,29.61,6,Medium
+Yadgir,112.41,43,18.89,24.08,24,Low
+Tumakuru,130.54,74,37.89,19.63,4,Medium
+Vijayanagara,331.71,88,37.66,27.76,24,High
+Mandya,103.14,51,13.07,24.94,22,Low
+Ballari,215.69,81,33.21,31.6,21,Medium
+Hassan,240.49,49,42.74,38.71,11,Medium
+Gadag,202.04,31,34.84,31.87,17,Medium
+Dharwad,12.47,53,33.33,31.59,22,Medium
+Shivamogga,197.76,80,30.02,28.53,15,Medium
+Kolar,132.17,41,47.58,31.41,13,Medium
+Hassan,188.86,45,50.82,20.16,18,Medium
+Ballari,171.02,64,40.96,31.82,21,Medium
+Shivamogga,262.91,30,37.83,40.71,15,High
+Belagavi,155.5,79,58.57,39.65,2,Medium
+Uttara Kannada,17.83,52,34.12,18.01,7,Low
+Uttara Kannada,266.63,68,10.12,38.92,16,Medium
+Vijayanagara,84.46,63,55.07,26.45,22,Medium
+Ramanagara,256.54,47,30.71,18.62,7,Medium
+Kalaburagi,85.02,36,49.57,31.67,25,Medium
+Raichur,40.15,61,41.05,21.49,24,Medium
+Kolar,268.39,83,18.83,27.19,17,Medium
+Bidar,348.66,58,20.43,35.5,20,Medium
+Dharwad,259.31,91,14.64,41.74,7,Medium
+Chamarajanagar,78.3,66,22.47,26.62,12,Low
+Bengaluru Urban,47.91,93,40.46,23.58,12,Medium
+Bengaluru Rural,189.17,47,53.42,21.9,2,Medium
+Mysuru,239.9,54,48.87,38.44,23,High
+Dharwad,340.36,61,50.56,32.09,19,High
+Dharwad,116.43,86,5.81,21.32,4,Low
+Gadag,259.37,74,33.71,36.63,20,Medium
+Chamarajanagar,218.26,94,39.07,34.87,15,High
+Chamarajanagar,306.83,63,2.66,29.96,25,Medium
+Haveri,159.67,100,46.63,37.09,18,High
+Haveri,308.34,41,24.77,24.9,21,Medium
+Raichur,81.46,71,17.92,20.6,19,Low
+Chitradurga,35.13,94,16.33,25.98,0,Low
+Dharwad,292.29,32,15.38,21.75,0,Low
+Bengaluru Rural,106.3,65,42.44,24.0,13,Medium
+Gadag,256.4,36,7.57,29.09,17,Medium
+Chitradurga,46.4,82,28.96,23.81,6,Medium
+Mangaluru,117.32,94,1.02,24.83,8,Low
+Chikkaballapur,146.0,95,48.21,21.55,5,Medium
+Vijayapura,327.26,69,9.4,37.42,9,Medium
+Kodagu,42.89,64,51.12,35.86,15,Medium
+Bengaluru Rural,250.48,47,22.5,37.73,11,Medium
+Chikkaballapur,104.49,83,24.9,27.29,23,Medium
+Chikkamagaluru,225.71,95,37.6,38.78,2,Medium
+Chamarajanagar,329.44,73,47.66,33.09,2,Medium
+Chitradurga,26.29,82,42.92,29.22,16,Medium
+Shivamogga,135.05,59,45.69,32.75,11,Medium
+Vijayapura,159.6,77,34.93,36.11,8,Medium
+Vijayapura,105.3,59,0.51,18.84,14,Low
+Dharwad,298.48,83,23.08,35.85,21,High
+Shivamogga,338.65,84,55.97,21.04,18,High
+Ballari,91.15,97,51.79,25.78,1,Medium
+Mysuru,279.69,37,25.17,32.24,6,Medium
+Kolar,241.65,84,33.0,28.13,9,Medium
+Mysuru,33.42,48,42.76,41.68,16,Medium
+Bagalkot,230.31,51,25.78,25.9,18,Medium
+Mangaluru,310.96,31,17.55,21.84,14,Medium
+Bidar,195.16,92,1.11,21.85,14,Medium
+Kodagu,222.89,50,10.28,21.66,22,Medium
+Raichur,112.19,92,56.47,39.85,1,Medium
+Dharwad,18.07,46,39.76,24.95,4,Low
+Chitradurga,62.69,94,0.97,20.34,13,Medium
+Haveri,24.12,77,38.22,40.77,15,Medium
+Udupi,288.1,70,28.39,21.59,7,Medium
+Kalaburagi,198.64,52,24.27,38.87,4,Low
+Dharwad,160.12,63,11.72,35.92,7,Low
+Ramanagara,260.94,73,18.71,33.95,7,Medium
+Vijayapura,285.92,95,22.34,25.09,9,Medium
+Dharwad,150.24,86,51.56,38.45,5,Medium
+Davanagere,279.8,52,16.68,34.93,10,Medium
+Chitradurga,148.59,60,0.09,38.14,18,Medium
+Uttara Kannada,29.81,40,45.13,26.14,8,Medium
+Ballari,327.19,83,19.87,19.43,19,Medium
+Kodagu,204.75,35,38.83,34.44,14,Medium
+Hassan,49.82,70,33.05,27.91,12,Low
+Bengaluru Urban,170.47,52,3.94,22.82,22,Medium
+Ramanagara,199.32,52,17.32,26.25,25,Medium
+Uttara Kannada,317.67,53,9.01,28.99,4,Low
+Mysuru,291.75,49,26.21,35.47,24,Medium
+Uttara Kannada,134.59,43,35.36,21.0,23,Medium
+Bagalkot,346.88,51,0.31,33.37,18,Medium
+Hassan,110.35,100,6.94,28.86,21,Medium
+Mysuru,107.14,33,41.68,35.39,9,Medium
+Udupi,321.93,96,53.82,25.76,25,High
+Chikkaballapur,38.19,34,9.54,37.94,5,Low
+Udupi,230.87,50,21.86,22.21,5,Medium
+Uttara Kannada,345.28,76,51.18,30.49,19,High
+Chitradurga,59.16,67,17.41,39.04,12,Low
+Shivamogga,214.91,40,46.69,32.1,17,Medium
+Hassan,62.86,43,3.45,30.34,22,Low
+Kolar,29.03,74,42.95,30.77,5,Low
+Chamarajanagar,203.36,59,2.63,26.66,7,Low
+Vijayanagara,59.56,51,22.61,24.29,3,Low
+Chitradurga,270.23,48,25.1,28.41,14,Medium
+Chitradurga,33.07,47,15.13,24.67,3,Low
+Chikkamagaluru,166.87,51,44.94,21.7,16,Medium
+Vijayapura,51.47,63,16.56,30.27,13,Low
+Chitradurga,94.46,61,32.84,29.27,22,Medium
+Shivamogga,89.36,42,43.84,30.02,2,Low
+Chitradurga,265.67,68,32.33,30.99,9,Medium
+Chikkamagaluru,214.57,35,32.84,38.31,7,Medium
+Koppal,213.67,94,22.27,41.55,13,Medium
+Tumakuru,95.33,58,6.47,26.33,12,Low
+Chikkamagaluru,195.82,80,26.19,29.97,10,Medium
+Uttara Kannada,15.98,96,46.28,18.27,10,Medium
+Uttara Kannada,335.13,72,51.34,19.69,19,High
+Chikkaballapur,278.5,67,34.95,38.31,21,Medium
+Koppal,345.03,66,40.76,38.38,4,Medium
+Uttara Kannada,339.97,79,15.85,33.12,16,Medium
+Belagavi,54.64,76,4.91,18.23,5,Low
+Koppal,100.62,71,58.85,39.41,2,Low
+Tumakuru,35.42,94,44.58,20.74,23,Medium
+Uttara Kannada,230.14,46,15.36,26.3,16,Medium
+Bengaluru Urban,144.17,42,0.32,28.69,0,Low
+Mangaluru,197.39,55,20.88,30.43,3,Low
+Chitradurga,134.79,81,6.39,35.15,4,Low
+Uttara Kannada,330.77,61,41.36,38.13,4,Medium
+Bagalkot,227.14,61,39.76,38.42,6,Medium
+Udupi,296.47,89,6.4,29.01,1,Medium
+Shivamogga,2.35,73,59.01,18.19,2,Low
+Kolar,325.01,76,51.31,40.04,14,High
+Yadgir,192.65,31,27.91,34.66,9,Medium
+Chikkamagaluru,247.5,96,47.63,32.73,1,Medium
+Kalaburagi,289.45,72,52.27,19.07,1,Medium
+Koppal,165.64,33,38.97,25.53,3,Medium
+Mangaluru,45.35,35,36.07,32.03,14,Medium
+Bagalkot,108.77,64,59.06,33.14,14,Medium
+Raichur,85.48,95,46.17,22.01,6,Medium
+Chamarajanagar,47.58,49,42.76,30.35,7,Medium
+Bagalkot,322.19,47,50.32,29.41,11,Medium
+Gadag,29.95,74,3.22,18.39,8,Low
+Davanagere,75.17,92,10.28,29.03,20,Medium
+Gadag,188.83,34,25.47,21.52,18,Medium
+Tumakuru,329.04,90,34.37,18.66,8,Medium
+Ballari,61.16,57,46.56,27.88,5,Low
+Tumakuru,49.56,75,57.81,30.31,13,Medium
+Ramanagara,337.45,52,8.4,40.58,0,Low
+Haveri,46.86,100,58.81,23.94,18,Medium
+Shivamogga,198.45,32,30.36,23.19,23,Medium
+Yadgir,10.59,40,37.48,29.4,23,Medium
+Kalaburagi,113.07,68,26.28,22.5,5,Low
+Mandya,125.65,71,15.74,19.77,5,Low
+Chikkaballapur,279.93,49,16.63,34.16,9,Medium
+Hassan,330.79,48,4.26,32.24,21,Medium
+Raichur,348.4,44,47.33,35.29,14,High
+Gadag,204.76,97,30.45,32.06,8,Medium
+Kolar,246.09,70,31.77,34.64,2,Medium
+Kolar,251.13,99,56.88,28.44,4,Medium
+Udupi,259.64,47,41.31,34.17,18,High
+Mandya,45.5,91,54.8,19.75,20,Medium
+Chamarajanagar,342.37,96,8.57,36.15,10,Medium
+Dharwad,76.9,94,30.56,38.96,14,Medium
+Hassan,156.83,36,11.91,30.53,21,Medium
+Tumakuru,73.11,34,40.49,23.4,14,Medium
+Belagavi,308.51,59,13.1,33.97,8,Medium
+Chikkaballapur,13.36,62,6.33,22.76,12,Low
+Uttara Kannada,112.52,85,42.05,31.15,23,Medium
+Bidar,96.21,61,19.83,19.23,14,Low
+Davanagere,106.01,50,25.01,26.82,4,Low
+Kodagu,284.42,44,20.27,20.85,11,Medium
+Shivamogga,18.47,39,1.64,31.96,20,Low
+Vijayanagara,294.3,30,12.21,37.48,25,Medium
+Hassan,33.75,64,21.75,35.04,8,Low
+Belagavi,302.18,61,17.56,28.01,19,Medium
+Chikkamagaluru,4.78,36,23.11,39.07,18,Medium
+Vijayanagara,337.66,93,25.63,27.74,14,High
+Belagavi,306.45,98,12.34,20.61,6,Medium
+Bengaluru Urban,287.59,83,50.99,41.07,12,High
+Kodagu,305.24,58,4.97,29.78,21,Medium
+Vijayapura,130.54,99,20.39,30.49,7,Medium
+Haveri,229.8,39,53.71,20.42,12,Medium
+Uttara Kannada,222.78,63,39.18,26.9,11,Medium
+Davanagere,222.97,48,54.72,20.21,5,Medium
+Udupi,173.52,40,11.02,26.35,23,Medium
+Kolar,50.99,97,52.2,36.78,0,Medium
+Chikkamagaluru,7.49,73,4.91,30.03,9,Low
+Mysuru,153.83,39,57.83,32.91,7,Medium
+Ramanagara,204.19,98,58.77,41.3,8,Medium
+Raichur,308.75,82,25.17,24.32,13,High
+Vijayapura,210.51,97,7.07,38.47,19,Medium
+Chikkaballapur,103.92,87,51.21,21.06,23,Medium
+Kolar,82.28,74,33.99,18.51,8,Low
+Ramanagara,298.81,98,27.02,31.85,13,High
+Raichur,172.69,88,54.73,20.01,14,High
+Raichur,237.3,49,6.14,37.04,1,Low
+Shivamogga,176.96,91,11.2,36.92,10,Medium
+Udupi,52.22,43,29.81,36.22,18,Medium
+Mangaluru,25.51,80,41.86,28.27,9,Medium
+Raichur,176.45,94,54.27,36.52,0,Medium
+Bagalkot,94.55,41,16.14,21.4,2,Low
+Vijayapura,205.56,77,30.41,32.98,1,Low
+Dharwad,152.34,78,17.54,32.77,9,Low
+Bagalkot,21.68,35,13.88,32.05,0,Low
+Dharwad,195.74,100,57.36,24.04,1,Medium
+Kodagu,218.64,76,44.23,34.08,14,Medium
+Chitradurga,50.7,31,7.02,27.6,9,Low
+Kodagu,224.57,34,49.5,33.93,0,Medium
+Vijayanagara,294.0,59,12.43,34.25,25,Medium
+Vijayapura,88.01,68,39.13,27.52,14,Medium
+Hassan,248.04,33,58.1,27.85,16,High
+Bidar,306.99,89,3.34,26.75,12,Medium
+Raichur,308.32,64,37.98,37.38,20,High
+Gadag,196.75,64,11.71,31.08,21,Medium
+Raichur,210.64,33,50.21,26.03,4,Medium
+Haveri,4.98,34,4.06,35.04,1,Low
+Uttara Kannada,46.9,66,40.29,24.86,11,Medium
+Bengaluru Urban,60.3,60,16.76,40.86,25,Low
+Mandya,228.6,56,29.9,25.62,11,Medium
+Ballari,30.54,85,17.97,21.91,20,Medium
+Bagalkot,21.53,93,26.61,40.67,7,Medium
+Haveri,126.19,46,43.94,27.64,16,Medium
+Shivamogga,95.96,88,37.54,40.79,25,Medium
+Vijayapura,271.79,68,28.95,31.35,22,Medium
+Raichur,214.73,75,47.61,32.66,10,Medium
+Koppal,42.9,54,59.95,27.27,6,Medium
+Bengaluru Urban,347.82,81,33.43,26.1,3,Medium
+Haveri,25.72,89,4.87,35.41,13,Medium
+Belagavi,31.56,72,23.94,34.48,3,Low
+Bagalkot,108.59,47,36.8,39.62,1,Low
+Mysuru,336.63,52,55.75,36.57,22,High
+Kodagu,21.28,41,47.68,21.04,14,Medium
+Ballari,7.21,32,52.32,21.99,5,Low
+Belagavi,4.1,74,59.34,31.45,22,Medium
+Chitradurga,260.85,44,19.91,21.36,25,Medium
+Haveri,339.27,87,9.3,24.84,12,Medium
+Mangaluru,16.08,51,11.96,34.06,24,Low
+Uttara Kannada,164.34,68,3.59,35.3,18,Medium
+Kolar,267.29,92,44.17,24.9,8,High
+Bagalkot,229.03,33,36.4,34.97,14,High
+Uttara Kannada,116.58,85,13.9,26.04,7,Low
+Bengaluru Urban,307.78,43,39.42,34.39,24,High
+Chikkamagaluru,333.67,86,48.79,28.75,13,High
+Chikkamagaluru,59.14,87,8.86,28.91,7,Low
+Dharwad,39.38,43,12.36,40.96,8,Low
+Bidar,272.76,61,56.69,38.28,18,High
+Dharwad,139.94,73,21.0,20.98,6,Medium
+Mandya,42.74,79,47.08,31.23,4,Low
+Gadag,328.1,38,39.87,25.12,11,Medium
+Uttara Kannada,87.27,50,14.04,38.79,9,Low
+Kodagu,254.61,30,59.54,24.02,17,High
+Chitradurga,245.02,63,43.82,36.89,14,High
+Bidar,278.41,99,12.22,35.2,11,Medium
+Kolar,12.36,71,23.06,27.54,17,Medium
+Udupi,183.65,97,41.17,19.73,15,High
+Kodagu,244.87,98,10.66,30.26,5,Medium
+Ballari,138.39,83,15.14,18.09,12,Medium
+Mandya,77.4,32,36.73,22.99,2,Low
+Bagalkot,153.93,95,0.1,29.28,20,Medium
+Uttara Kannada,95.95,40,48.37,27.32,20,Medium
+Chamarajanagar,10.11,34,34.88,34.43,20,Medium
+Belagavi,305.58,61,54.59,19.64,23,High
+Vijayanagara,326.83,75,30.72,24.56,4,Medium
+Ramanagara,6.59,77,55.46,19.91,7,Medium
+Tumakuru,235.2,89,55.21,31.02,14,High
+Bagalkot,222.47,99,15.34,33.54,24,Medium
+Yadgir,337.33,41,26.63,35.63,7,Medium
+Gadag,281.92,48,20.38,34.41,15,Medium
+Chitradurga,84.75,82,4.05,25.58,5,Low
+Yadgir,176.26,48,39.42,25.91,11,Medium
+Ballari,24.04,75,54.65,31.79,5,Low
+Mangaluru,343.29,34,2.68,26.98,9,Medium
+Kolar,154.96,94,9.45,20.86,11,Medium
+Mandya,106.05,59,22.55,20.3,24,Medium
+Ballari,249.73,34,44.01,41.24,0,Medium
+Raichur,138.36,93,31.2,18.96,21,Medium
+Vijayanagara,84.55,77,10.49,19.11,24,Low
+Kalaburagi,132.35,65,5.53,22.8,1,Low
+Davanagere,265.78,58,19.64,18.45,24,Medium
+Ballari,113.49,41,34.7,37.8,17,Medium
+Kolar,346.17,88,2.98,22.88,7,Medium
+Kodagu,94.49,41,6.93,36.2,18,Low
+Koppal,281.45,63,8.02,29.27,15,Medium
+Mandya,45.37,79,43.94,38.87,10,Medium
+Haveri,269.65,43,31.04,25.4,24,Medium
+Ramanagara,138.82,91,23.6,28.21,8,Medium
+Mangaluru,203.17,86,17.53,20.85,5,Low
+Chitradurga,142.22,69,45.97,19.5,23,Medium
+Chikkaballapur,37.69,69,46.8,28.18,2,Low
+Bidar,172.6,51,22.91,32.3,5,Low
+Chamarajanagar,98.63,41,9.57,31.33,1,Low
+Bagalkot,72.99,48,55.8,27.37,0,Low
+Ballari,261.61,76,46.85,36.79,0,Medium
+Chitradurga,134.59,75,7.66,39.03,12,Low
+Koppal,135.48,34,44.19,24.43,8,Medium
+Tumakuru,111.94,87,31.8,24.95,3,Low
+Vijayapura,244.86,55,51.63,39.58,19,High
+Chikkamagaluru,301.68,83,27.94,19.44,24,High
+Haveri,135.63,36,42.08,25.12,21,Medium
+Vijayanagara,17.07,79,17.91,25.1,24,Low
+Koppal,129.19,52,50.5,30.57,25,Medium
+Vijayapura,248.17,58,58.06,32.06,24,High
+Bagalkot,109.13,78,1.05,36.77,23,Low
+Bidar,322.23,73,26.81,27.35,5,Medium
+Kalaburagi,149.9,97,19.08,24.26,0,Low
+Shivamogga,62.3,80,44.6,25.44,23,Medium
+Haveri,90.46,46,56.37,27.55,4,Low
+Koppal,293.47,73,44.16,24.78,13,High
+Belagavi,256.63,60,10.68,36.62,1,Low
+Mandya,1.35,75,47.96,37.21,24,Medium
+Ramanagara,150.9,98,45.94,21.07,25,High
+Kolar,17.72,54,5.0,20.83,22,Low
+Kalaburagi,187.94,91,48.69,36.76,8,Medium
+Kolar,327.34,91,12.49,38.54,18,Medium
+Bengaluru Rural,260.68,32,20.39,28.23,17,Medium
+Ballari,112.13,73,16.97,32.35,25,Low
+Mangaluru,237.81,52,11.73,36.64,14,Medium
+Bagalkot,175.82,75,17.4,27.91,0,Low
+Shivamogga,55.96,59,30.84,27.9,19,Medium
+Tumakuru,181.43,91,37.9,18.52,17,High
+Kodagu,348.3,90,26.86,26.67,18,High
+Vijayapura,167.64,65,37.69,34.96,8,Medium
+Dharwad,205.83,98,26.46,23.22,23,Medium
+Ballari,339.03,30,18.5,37.01,18,Medium
+Belagavi,264.45,82,38.14,38.49,13,High
+Vijayanagara,348.93,91,22.56,30.04,16,High
+Kolar,176.65,88,34.71,20.87,25,Medium
+Vijayanagara,190.8,97,29.84,33.31,0,Medium
+Kalaburagi,177.55,96,51.01,22.31,12,Medium
+Hassan,272.3,52,42.73,24.05,3,Medium
+Mysuru,73.95,91,20.9,29.98,1,Low
+Vijayapura,155.29,65,26.82,23.24,15,Medium
+Tumakuru,223.45,95,4.32,28.02,10,Medium
+Kodagu,117.18,40,57.4,39.87,16,Medium
+Koppal,61.22,81,56.5,39.67,1,Medium
+Udupi,158.71,46,34.26,34.13,25,Medium
+Tumakuru,293.86,55,38.15,19.48,11,Medium
+Bagalkot,125.01,63,46.49,35.27,17,Medium
+Raichur,333.75,74,18.0,21.88,14,Medium
+Ballari,331.35,52,37.27,36.19,0,Medium
+Ballari,27.53,59,17.09,41.07,15,Low
+Mangaluru,58.9,38,26.65,41.86,0,Low
+Dharwad,303.6,76,20.52,29.1,5,Medium
+Hassan,229.67,56,49.16,36.1,3,Medium
+Kodagu,98.37,78,1.6,32.91,22,Low
+Bengaluru Rural,144.53,72,26.54,20.28,8,Medium
+Chamarajanagar,339.23,59,35.56,39.96,17,High
+Kodagu,40.04,88,26.82,18.83,20,Medium
+Gadag,329.39,90,26.16,28.87,22,High
+Chitradurga,321.64,32,31.53,18.58,10,Medium
+Koppal,178.04,70,9.9,36.22,12,Low
+Bidar,348.25,83,39.79,34.8,0,Medium
+Shivamogga,243.04,50,1.57,31.46,23,Medium
+Uttara Kannada,65.78,70,47.27,33.94,16,Medium
+Chitradurga,344.35,48,16.94,26.99,10,Medium
+Raichur,81.39,73,24.68,29.65,10,Low
+Kalaburagi,182.73,93,54.77,22.57,8,Medium
+Bengaluru Urban,129.82,89,58.28,26.57,3,Medium
+Hassan,5.36,55,5.9,37.28,4,Low
+Kodagu,186.58,60,14.91,39.58,1,Low
+Udupi,340.49,45,27.78,31.19,17,Medium
+Vijayanagara,45.99,65,51.93,18.84,13,Medium
+Mandya,100.9,56,32.2,41.25,25,Medium
+Gadag,134.51,100,22.26,25.86,3,Medium
+Kalaburagi,78.06,86,19.43,27.05,4,Low
+Ramanagara,308.48,65,7.41,24.7,18,Medium
+Kodagu,254.86,98,36.42,33.27,8,High
+Mysuru,240.85,34,13.39,35.76,17,Medium
+Koppal,126.22,36,20.55,34.4,17,Medium
+Ballari,296.86,78,48.28,38.69,19,High
+Mysuru,128.93,55,16.47,27.82,10,Low
+Chamarajanagar,102.09,57,19.41,22.61,15,Low
+Vijayanagara,34.04,35,43.63,36.81,23,Medium
+Tumakuru,200.02,46,15.19,32.57,22,Medium
+Kalaburagi,68.85,83,6.21,20.16,4,Low
+Mysuru,40.56,40,43.27,33.96,6,Medium
+Gadag,2.67,53,21.51,24.23,16,Medium
+Bengaluru Rural,158.63,87,23.67,39.67,1,Medium
+Raichur,23.8,67,21.9,41.38,11,Low
+Koppal,148.1,72,25.54,23.48,20,Medium
+Udupi,252.83,37,5.02,21.07,3,Low
+Bagalkot,74.94,64,27.87,40.58,9,Low
+Ramanagara,58.05,86,16.11,25.16,0,Low
+Uttara Kannada,68.82,63,39.74,28.76,9,Medium
+Bidar,224.23,34,3.54,31.68,11,Medium
+Davanagere,263.5,76,45.86,23.5,16,High
+Chikkaballapur,337.37,79,23.65,41.02,16,Medium
+Chamarajanagar,174.56,59,30.45,31.05,0,Low
+Bengaluru Rural,305.58,88,23.88,31.48,9,Medium
+Udupi,29.01,74,2.47,34.42,24,Low
+Hassan,2.14,71,51.01,31.75,9,Medium
+Hassan,105.44,51,34.96,26.21,13,Medium
+Tumakuru,54.39,67,35.12,25.82,2,Low
+Hassan,53.42,99,1.99,30.11,3,Low
+Vijayapura,315.1,85,51.55,23.87,17,High
+Uttara Kannada,257.22,70,9.49,38.64,24,Medium
+Haveri,164.05,75,3.8,22.34,22,Medium
+Dharwad,241.92,38,8.32,38.36,1,Low
+Kolar,200.93,67,57.4,39.7,17,Medium
+Bengaluru Urban,163.58,70,29.66,19.32,15,Medium
+Bengaluru Rural,120.92,63,11.34,36.77,21,Medium
+Koppal,258.98,62,25.06,19.88,9,Medium
+Shivamogga,334.95,56,17.99,27.59,23,Medium
+Chitradurga,303.53,92,39.27,28.53,18,High
+Bengaluru Rural,179.67,97,33.33,41.08,7,Medium
+Ballari,181.69,39,7.82,21.93,11,Low
+Mangaluru,348.16,43,59.14,36.12,3,Medium
+Udupi,268.09,97,14.29,25.8,8,Medium
+Chikkaballapur,153.47,74,38.5,23.43,16,Medium
+Kolar,28.71,62,22.41,18.6,0,Low
+Hassan,343.48,38,37.33,20.88,2,Medium
+Chitradurga,157.64,48,10.91,24.28,19,Medium
+Belagavi,147.29,34,15.53,32.13,9,Low
+Yadgir,321.38,80,40.52,36.89,24,High
+Chikkaballapur,174.77,86,39.32,18.5,20,High
+Haveri,81.9,75,54.59,25.46,19,Medium
+Bengaluru Rural,317.64,30,2.03,38.56,5,Low
+Bengaluru Rural,332.95,46,17.37,40.7,1,Low
+Bengaluru Urban,243.76,52,8.02,26.11,21,Medium
+Vijayanagara,116.07,57,51.94,32.07,14,Medium
+Bidar,49.75,42,48.48,34.41,24,Medium
+Ramanagara,146.66,73,34.54,31.88,18,Medium
+Ramanagara,162.51,43,0.66,19.9,16,Medium
+Haveri,2.37,91,1.08,36.9,0,Low
+Belagavi,157.65,42,9.92,28.87,21,Medium
+Yadgir,131.06,31,33.93,19.27,14,Medium
+Haveri,186.36,88,10.09,20.72,24,Medium
+Dharwad,147.66,73,11.42,30.11,15,Medium
+Raichur,100.17,97,37.59,25.5,9,Medium
+Chamarajanagar,335.92,49,6.09,23.85,3,Low
+Haveri,151.43,81,44.06,41.18,15,High
+Mangaluru,80.8,99,58.07,33.44,5,Medium
+Dharwad,314.61,90,9.16,28.65,2,Medium
+Bengaluru Urban,99.12,81,50.37,40.73,19,Medium
+Uttara Kannada,37.62,60,32.71,28.97,16,Medium
+Bagalkot,62.08,97,44.98,22.91,20,Medium
+Vijayanagara,310.84,77,35.42,31.21,2,Medium
+Uttara Kannada,180.76,66,58.54,33.46,19,Medium
+Davanagere,209.23,84,56.5,41.04,11,Medium
+Koppal,238.13,94,39.69,29.33,1,Medium
+Shivamogga,259.4,70,7.03,21.78,12,Medium
+Kodagu,256.4,78,51.66,36.92,11,Medium
+Shivamogga,91.93,63,16.49,29.69,20,Low
+Chamarajanagar,86.37,90,25.96,26.23,15,Medium
+Dharwad,140.28,60,17.41,36.75,12,Low
+Gadag,43.22,33,57.86,33.56,2,Low
+Chikkaballapur,200.9,79,21.5,22.77,3,Low
+Haveri,207.29,55,7.43,33.84,8,Low
+Hassan,293.56,70,0.54,24.64,18,Medium
+Shivamogga,131.97,54,6.08,38.0,1,Low
+Tumakuru,98.25,61,6.76,21.84,1,Low
+Kodagu,324.73,62,44.51,25.48,5,Medium
+Belagavi,177.57,69,29.73,19.8,24,Medium
+Bagalkot,114.74,35,4.92,39.42,23,Low
+Ramanagara,82.45,50,52.06,21.14,9,Medium
+Tumakuru,33.27,93,57.36,28.46,1,Medium
+Raichur,116.77,39,1.53,37.45,10,Low
+Ballari,302.2,83,28.55,41.42,7,Medium
+Kalaburagi,302.98,86,7.59,31.01,3,Medium
+Hassan,194.06,32,45.35,37.33,12,Medium
+Gadag,4.71,62,54.53,35.21,20,Medium
+Kolar,327.52,80,27.77,38.91,1,Medium
+Chitradurga,148.31,86,47.17,32.35,24,High
+Belagavi,74.96,50,20.63,34.58,24,Medium
+Mysuru,82.36,61,19.55,37.57,22,Low
+Koppal,138.38,44,10.91,28.33,1,Low
+Mangaluru,246.6,63,2.12,34.41,18,Medium
+Shivamogga,270.76,57,39.15,39.97,18,High
+Vijayanagara,15.7,81,49.93,34.25,9,Medium
+Bengaluru Urban,323.92,35,58.66,26.2,11,Medium
+Kalaburagi,166.34,93,11.42,25.85,17,Medium
+Koppal,171.62,50,35.79,27.36,24,Medium
+Udupi,308.94,60,4.21,21.54,16,Medium
+Mangaluru,238.54,73,50.1,26.19,1,Medium
+Chamarajanagar,35.01,44,49.98,18.3,18,Medium
+Chikkamagaluru,167.98,70,54.63,32.75,14,Medium
+Dharwad,132.46,86,43.05,40.84,18,High
+Shivamogga,268.25,82,1.27,37.9,0,Medium
+Bengaluru Rural,224.08,45,33.88,27.38,13,Medium
+Mangaluru,163.12,99,40.27,27.26,23,High
+Ramanagara,180.56,64,16.14,18.0,12,Low
+Shivamogga,100.57,99,2.15,19.05,19,Medium
+Yadgir,247.42,61,41.48,33.26,11,Medium
+Vijayapura,297.18,47,3.98,29.95,8,Medium
+Dharwad,285.77,40,53.75,30.11,17,High
+Ramanagara,108.63,47,36.99,24.62,19,Medium
+Dharwad,65.99,42,38.95,37.5,4,Low
+Kodagu,259.96,97,30.93,36.3,8,Medium
+Vijayanagara,122.48,59,14.22,34.57,18,Medium
+Raichur,118.21,37,15.64,24.56,18,Low
+Udupi,94.58,100,55.73,36.28,9,Medium
+Bidar,80.85,61,4.12,33.49,14,Low
+Gadag,57.93,89,28.32,23.94,4,Low
+Hassan,121.06,96,14.81,38.51,16,Medium
+Udupi,259.83,37,8.48,20.12,4,Low
+Yadgir,319.48,55,29.67,33.07,12,Medium
+Vijayanagara,220.91,35,33.73,39.51,3,Medium
+Belagavi,199.61,88,56.4,29.4,15,High
+Bengaluru Urban,19.73,65,8.63,35.96,20,Low
+Davanagere,334.57,53,10.71,26.82,6,Medium
+Raichur,223.36,67,42.4,36.22,8,Medium
+Tumakuru,336.22,46,9.89,26.1,12,Medium
+Kolar,4.43,38,17.95,21.37,20,Low
+Chikkamagaluru,177.97,64,18.49,29.77,0,Low
+Chikkamagaluru,15.64,43,10.78,24.97,25,Low
+Udupi,155.4,82,58.84,34.06,16,High
+Belagavi,349.6,85,26.89,19.68,14,High
+Bagalkot,251.98,37,16.03,18.96,14,Medium
+Shivamogga,306.31,57,54.85,38.69,13,High
+Chamarajanagar,47.91,64,0.37,20.95,25,Low
+Tumakuru,299.0,33,48.3,35.05,23,High
+Vijayapura,63.26,90,34.18,38.3,12,Medium
+Kodagu,219.93,35,57.4,23.22,1,Medium
+Koppal,234.65,91,46.48,23.64,18,High
+Bengaluru Urban,3.57,56,10.18,26.47,0,Low
+Bengaluru Rural,197.57,83,12.57,24.38,2,Low
+Bidar,264.68,38,51.12,27.62,23,High
+Koppal,126.9,85,51.62,28.52,20,High
+Kodagu,83.19,87,31.09,32.16,0,Low
+Yadgir,30.24,72,39.07,22.07,4,Low
+Mangaluru,291.72,47,52.38,33.81,1,Medium
+Chitradurga,109.84,34,3.74,33.27,11,Low
+Ramanagara,142.59,100,56.88,18.86,25,High
+Dharwad,27.15,73,48.5,26.17,9,Medium
+Hassan,286.84,40,55.42,32.31,0,Medium
+Belagavi,268.53,61,55.22,41.0,0,Medium
+Bengaluru Rural,54.98,37,30.07,39.18,23,Medium
+Bengaluru Rural,277.94,42,53.09,18.84,19,High
+Kolar,196.83,45,43.08,21.53,13,Medium
+Shivamogga,342.29,84,55.43,31.26,3,Medium
+Belagavi,156.38,51,2.5,29.0,3,Low
+Davanagere,291.45,88,46.1,40.47,21,High
+Hassan,258.81,92,18.48,37.2,20,Medium
+Vijayapura,191.1,60,29.66,37.21,7,Medium
+Uttara Kannada,113.72,50,30.49,21.97,12,Low
+Bagalkot,3.88,58,22.35,20.27,11,Low
+Davanagere,30.47,71,29.53,30.24,12,Low
+Vijayanagara,291.58,60,44.52,28.59,14,High
+Chamarajanagar,36.03,80,56.56,33.63,6,Medium
+Dharwad,94.51,63,26.8,34.75,12,Low
+Tumakuru,235.77,64,25.93,30.72,6,Medium
+Shivamogga,137.53,41,11.05,22.28,14,Medium
+Ballari,147.51,35,4.38,41.67,17,Medium
+Bidar,25.86,56,55.72,26.0,13,Medium
+Gadag,101.91,99,43.76,22.81,5,Medium
+Chikkamagaluru,200.03,90,12.4,18.47,2,Low
+Tumakuru,7.73,91,5.85,38.43,22,Medium
+Shivamogga,214.37,49,25.87,29.14,13,Medium
+Chikkamagaluru,148.55,94,57.61,27.94,6,Medium
+Chikkamagaluru,120.3,99,47.6,22.23,23,High
+Bengaluru Rural,126.6,90,1.27,35.41,16,Medium
+Bagalkot,303.56,52,21.5,38.0,25,Medium
+Ramanagara,61.52,96,51.79,19.98,10,Medium
+Vijayanagara,262.76,32,22.19,36.99,16,Medium
+Kalaburagi,10.4,61,56.43,29.95,5,Low
+Udupi,156.54,86,42.51,27.75,7,Medium
+Chamarajanagar,112.36,56,7.6,40.17,12,Low
+Ballari,290.26,51,45.51,36.84,25,High
+Bengaluru Rural,176.43,32,21.21,21.44,1,Low
+Kodagu,292.94,35,59.68,41.43,18,High
+Haveri,306.6,63,33.1,19.07,3,Medium
+Ramanagara,251.07,69,9.01,22.75,18,Medium
+Mysuru,156.58,79,35.25,39.03,22,Medium
+Tumakuru,126.16,98,58.57,31.77,22,High
+Chikkaballapur,27.92,61,54.04,32.87,11,Medium
+Bengaluru Urban,135.31,38,26.18,20.24,4,Low
+Haveri,67.91,44,55.88,32.5,14,Medium
+Dharwad,273.99,65,42.8,25.7,2,Medium
+Hassan,71.43,47,41.42,27.92,10,Medium
+Chikkamagaluru,63.05,57,23.11,19.23,23,Medium
+Davanagere,95.99,30,53.89,40.25,12,Medium
+Haveri,325.36,31,53.09,32.53,15,High
+Bengaluru Urban,314.99,80,55.69,22.44,8,Medium
+Kodagu,60.49,69,3.66,23.92,19,Low
+Bengaluru Urban,39.25,94,39.4,23.53,20,Medium
+Mangaluru,152.76,84,8.22,36.89,9,Medium
+Kodagu,14.66,40,29.77,26.75,7,Low
+Yadgir,268.97,94,28.83,22.41,15,High
+Vijayapura,96.89,58,45.95,25.02,7,Medium
+Bagalkot,33.85,64,12.17,39.02,24,Low
+Belagavi,46.32,37,53.18,37.79,10,Medium
+Udupi,0.85,39,55.84,41.4,18,Medium
+Uttara Kannada,332.07,70,51.63,25.27,6,Medium
+Dharwad,277.81,100,22.73,19.61,0,Medium
+Bengaluru Rural,295.75,49,2.22,35.86,5,Low
+Shivamogga,54.55,95,45.09,18.99,11,Medium
+Tumakuru,270.85,45,51.69,37.31,20,High
+Ballari,302.93,91,18.87,30.86,13,Medium
+Uttara Kannada,9.52,95,23.82,33.47,13,Medium
+Mandya,247.73,77,24.26,37.23,12,Medium
+Raichur,14.58,85,8.93,27.26,0,Low
+Shivamogga,149.61,82,12.63,35.61,9,Medium
+Tumakuru,120.08,65,30.16,40.17,4,Low
+Bidar,296.38,70,25.88,22.84,14,Medium
+Chikkamagaluru,68.47,52,45.09,25.06,23,Medium
+Chamarajanagar,322.61,63,16.3,38.78,11,Medium
+Yadgir,37.37,42,18.85,23.22,4,Low
+Udupi,290.52,37,25.34,38.8,25,Medium
+Bengaluru Rural,292.17,38,54.17,26.77,9,Medium
+Tumakuru,295.24,34,3.94,36.0,25,Medium
+Ballari,60.73,52,52.45,30.29,15,Medium
+Vijayanagara,141.91,43,11.23,29.66,23,Medium
+Davanagere,29.17,97,6.67,32.43,12,Low
+Kodagu,320.57,42,38.49,35.02,4,Medium
+Udupi,97.35,45,45.51,29.68,7,Medium
+Bagalkot,266.02,45,44.59,28.84,10,Medium
+Chikkamagaluru,267.44,64,13.5,19.59,1,Low
+Ramanagara,19.77,38,37.06,29.24,24,Medium
+Belagavi,299.85,62,4.31,23.09,5,Low
+Mysuru,19.07,94,31.34,37.28,0,Low
+Uttara Kannada,247.97,59,5.68,28.28,17,Medium
+Koppal,27.2,63,42.21,40.34,1,Low
+Ballari,129.83,45,21.46,29.27,3,Low
+Uttara Kannada,282.2,55,42.71,19.41,25,High
+Gadag,131.44,85,32.59,31.77,5,Medium
+Ramanagara,197.94,84,3.15,36.96,23,Medium
+Mandya,324.78,72,41.21,41.71,4,Medium
+Bidar,48.54,69,58.57,40.54,14,Medium
+Bengaluru Urban,190.14,40,58.19,39.94,10,Medium
+Bagalkot,245.67,74,11.41,18.8,10,Medium
+Mysuru,11.3,92,2.23,18.74,8,Low
+Chikkamagaluru,142.0,79,57.76,33.14,21,Medium
+Bidar,347.96,95,54.85,30.76,19,High
+Kodagu,231.01,64,0.59,30.57,6,Medium
+Chikkamagaluru,194.7,100,22.96,30.67,0,Medium
+Mysuru,271.49,85,0.14,39.56,18,Medium
+Udupi,195.92,99,12.49,20.16,18,Medium
+Haveri,14.78,81,54.55,21.86,8,Medium
+Bagalkot,279.69,72,26.68,38.8,4,Medium
+Belagavi,230.36,90,36.71,29.63,21,High
+Chamarajanagar,255.25,96,41.88,25.76,6,High
+Chamarajanagar,104.2,84,9.42,33.1,18,Medium
+Kolar,124.38,38,57.63,18.96,2,Medium
+Gadag,51.03,46,15.24,23.1,2,Low
+Bengaluru Urban,274.77,44,54.6,23.19,25,High
+Bagalkot,134.97,55,20.62,41.12,16,Medium
+Mandya,283.71,30,53.04,30.39,24,High
+Bagalkot,41.58,55,26.75,40.89,22,Medium
+Haveri,193.05,61,16.06,41.01,7,Low
+Chitradurga,307.08,66,17.44,35.33,5,Low
+Mandya,326.58,43,29.54,26.13,14,Medium
+Hassan,215.32,70,43.76,33.4,5,Medium
+Uttara Kannada,99.18,44,12.8,27.78,7,Low
+Vijayapura,279.84,57,56.38,26.67,1,Medium
+Mysuru,210.55,30,3.89,41.13,20,Medium
+Mangaluru,291.44,100,11.98,29.35,1,Medium
+Bagalkot,209.29,61,18.34,21.96,22,Medium
+Ramanagara,61.83,76,4.77,25.99,10,Low
+Chamarajanagar,281.78,77,50.79,37.24,23,High
+Haveri,126.08,47,45.37,29.03,15,Medium
+Chikkamagaluru,14.35,64,30.92,23.79,1,Low
+Shivamogga,159.48,33,10.52,38.74,6,Low
+Kolar,168.66,44,49.32,25.29,2,Medium
+Ramanagara,21.52,84,35.04,27.81,11,Medium
+Chamarajanagar,215.62,47,50.1,35.03,2,Medium
+Dharwad,316.92,90,6.47,35.76,18,Medium
+Davanagere,167.72,63,38.6,29.23,0,Medium
+Koppal,150.09,98,57.01,29.76,24,High
+Ramanagara,47.21,93,20.24,41.41,14,Medium
+Kalaburagi,233.93,77,8.5,24.51,12,Medium
+Koppal,62.69,96,2.08,28.46,8,Low
+Chamarajanagar,302.57,66,41.51,32.01,6,Medium
+Davanagere,84.56,49,15.49,21.74,1,Low
+Bengaluru Urban,3.99,82,19.23,32.41,4,Low
+Ramanagara,25.25,58,19.61,23.7,9,Low
+Mangaluru,11.13,38,5.78,26.88,10,Low
+Vijayapura,291.37,86,36.79,30.53,13,High
+Chamarajanagar,187.23,33,1.29,25.66,5,Low
+Chikkamagaluru,30.37,100,1.44,18.94,2,Low
+Udupi,50.27,95,12.09,24.1,14,Medium
+Hassan,78.17,62,38.16,28.89,18,Medium
+Koppal,43.28,36,58.72,29.27,17,Medium
+Chitradurga,104.48,75,54.93,19.69,23,Medium
+Chikkaballapur,47.17,44,39.09,22.54,10,Medium
+Mysuru,248.28,99,12.8,38.98,7,Medium
+Ramanagara,301.55,73,18.59,29.12,22,Medium
+Chamarajanagar,259.63,87,8.91,31.44,8,Medium
+Shivamogga,262.73,44,24.9,22.27,8,Medium
+Chikkamagaluru,74.64,31,44.28,19.16,14,Medium
+Hassan,281.33,35,47.57,39.57,4,Medium
+Haveri,136.78,43,59.36,40.38,3,Medium
+Mandya,235.19,85,9.21,34.48,16,Medium
+Uttara Kannada,349.97,46,59.42,38.25,23,High
+Shivamogga,282.4,95,54.28,41.91,8,High
+Vijayanagara,306.4,88,47.62,37.42,24,High
+Shivamogga,79.85,59,50.94,40.49,16,Medium
+Chamarajanagar,345.11,95,6.22,33.41,23,Medium
+Ramanagara,18.44,56,6.41,18.36,12,Low
+Kolar,264.2,89,17.34,39.74,3,Medium
+Raichur,141.85,94,41.4,31.87,9,Medium
+Mangaluru,20.83,59,18.92,18.04,2,Low
+Uttara Kannada,168.49,90,3.48,32.24,6,Medium
+Davanagere,316.56,56,29.34,34.41,1,Medium
+Bidar,340.77,65,10.13,22.61,24,Medium
+Tumakuru,213.71,82,20.41,27.4,16,Medium
+Gadag,91.75,77,51.69,23.64,14,Medium
+Ramanagara,260.43,64,43.46,19.03,2,Medium
+Kolar,174.66,86,42.81,23.66,17,High
+Uttara Kannada,116.0,84,50.62,32.38,8,Medium
+Raichur,265.98,60,10.45,18.21,6,Medium
+Raichur,123.68,80,10.37,32.46,10,Low
+Yadgir,105.9,85,58.12,27.52,2,Medium
+Mandya,251.86,88,23.48,35.63,22,High
+Chikkamagaluru,243.36,44,3.54,32.0,21,Medium
+Uttara Kannada,302.34,51,0.95,26.85,25,Medium
+Yadgir,9.18,48,37.69,35.45,25,Medium
+Yadgir,130.9,87,53.65,30.63,17,High
+Mandya,145.25,70,38.49,18.17,23,Medium
+Kolar,110.12,39,5.46,20.62,18,Low
+Gadag,243.08,30,2.47,32.74,13,Medium
+Vijayapura,66.94,62,28.18,21.98,10,Low
+Haveri,214.4,44,6.82,26.01,19,Medium
+Vijayanagara,225.54,99,21.94,41.99,25,High
+Ballari,6.33,78,26.03,37.5,6,Low
+Mangaluru,247.01,78,33.29,30.02,7,Medium
+Bengaluru Urban,81.22,65,15.31,35.51,11,Low
+Vijayanagara,208.18,87,47.32,37.66,2,Medium
+Chitradurga,151.53,67,20.91,23.79,8,Medium
+Raichur,143.55,85,24.79,31.37,17,Medium
+Raichur,50.27,52,1.4,40.8,8,Low
+Davanagere,224.61,79,41.9,29.52,23,High
+Bengaluru Urban,95.43,95,19.48,30.82,17,Medium
+Ballari,225.56,56,22.89,34.66,13,Medium
+Bagalkot,249.28,44,25.02,25.89,19,Medium
+Ramanagara,200.87,63,37.45,23.83,2,Medium
+Shivamogga,188.69,72,3.0,29.86,1,Low
+Tumakuru,313.48,31,53.26,30.97,8,Medium
+Vijayanagara,47.01,79,52.7,19.98,12,Medium
+Bagalkot,274.95,93,57.95,29.16,13,High
+Mangaluru,329.86,44,18.55,37.94,16,Medium
+Bengaluru Rural,101.57,34,30.37,28.28,0,Low
+Vijayapura,221.99,44,1.92,20.45,6,Medium
+Ballari,137.94,57,3.23,41.63,24,Medium
+Uttara Kannada,264.27,95,5.0,32.33,12,Medium
+Bidar,78.82,91,6.28,25.5,6,Low
+Tumakuru,33.91,83,23.81,25.37,24,Medium
+Hassan,68.1,86,58.35,22.82,22,Medium
+Ballari,323.38,75,27.33,38.68,17,Medium
+Raichur,158.69,46,34.58,29.56,14,Medium
+Chikkaballapur,231.7,41,52.9,31.86,6,Medium
+Ballari,207.06,40,15.05,38.65,8,Low
+Yadgir,349.86,54,5.55,27.8,23,Medium
+Dharwad,183.44,80,48.77,33.41,17,Medium
+Raichur,236.67,76,42.91,33.63,18,High
+Kodagu,158.98,90,30.41,40.9,6,Medium
+Koppal,261.77,84,57.07,35.67,22,High
+Ramanagara,81.29,94,0.8,28.81,0,Low
+Tumakuru,152.7,30,33.88,22.37,2,Low
+Bengaluru Urban,53.18,99,48.58,27.99,2,Medium
+Kodagu,107.03,79,20.0,27.96,4,Low
+Uttara Kannada,93.41,47,3.44,38.83,3,Low
+Vijayapura,38.21,36,55.68,28.81,7,Medium
+Mandya,263.81,42,21.7,36.58,25,Medium
+Chamarajanagar,261.68,66,25.27,36.48,11,Medium
+Mandya,96.73,89,44.72,30.84,14,Medium
+Chamarajanagar,67.08,54,4.06,23.96,19,Low
+Chitradurga,265.5,72,45.91,33.43,21,High
+Yadgir,138.34,46,30.56,32.62,19,Medium
+Chikkamagaluru,173.54,54,48.53,30.91,22,Medium
+Udupi,117.57,82,40.31,38.62,5,Medium
+Chitradurga,90.34,72,10.06,27.22,14,Low
+Shivamogga,279.9,80,37.08,26.15,7,Medium
+Bengaluru Urban,71.0,53,35.76,37.06,17,Medium
+Bidar,105.66,53,55.15,22.99,11,Medium
+Tumakuru,65.87,53,44.74,32.78,11,Medium
+Dharwad,173.77,46,0.19,19.79,9,Low
+Bagalkot,96.59,74,40.12,39.62,23,Medium
+Koppal,341.64,91,33.34,33.09,3,Medium
+Chitradurga,281.67,83,4.9,35.47,23,Medium
+Shivamogga,41.53,76,3.49,23.02,14,Low
+Vijayanagara,209.62,54,13.21,29.36,19,Medium
+Bengaluru Urban,339.51,33,17.85,26.88,20,Medium
+Chikkamagaluru,344.58,42,19.22,18.41,10,Medium
+Mandya,167.38,72,29.21,37.88,7,Medium
+Bagalkot,94.88,58,54.77,19.96,7,Medium
+Bagalkot,294.65,36,43.41,41.67,0,Medium
+Mysuru,310.66,38,0.9,24.44,1,Low
+Chikkaballapur,23.51,67,31.91,18.02,5,Low
+Bengaluru Urban,245.24,98,39.24,26.58,15,High
+Bidar,332.55,81,30.74,37.55,20,High
+Tumakuru,219.19,43,36.49,27.54,16,Medium
+Chikkaballapur,219.17,80,52.48,41.62,23,Medium
+Mangaluru,42.74,48,59.1,34.72,9,Medium
+Gadag,96.37,36,7.18,26.89,17,Low
+Mysuru,286.66,84,54.5,32.12,3,Medium
+Kolar,191.08,61,54.54,35.69,21,Medium
+Bagalkot,118.88,65,50.9,22.56,6,Medium
+Bengaluru Rural,343.18,76,34.67,35.15,7,Medium
+Mysuru,82.72,42,15.0,18.35,21,Low
+Raichur,348.29,40,35.85,39.87,11,Medium
+Kodagu,231.87,47,39.05,24.27,14,High
+Chikkamagaluru,334.78,96,19.66,28.29,24,Medium
+Yadgir,65.33,67,11.52,20.12,3,Low
+Shivamogga,305.68,30,36.44,21.34,3,Medium
+Vijayanagara,16.56,39,23.78,31.01,22,Medium
+Bidar,220.85,44,32.32,23.61,18,Medium
+Vijayapura,349.75,52,49.95,18.12,25,High
+Bengaluru Rural,58.17,89,26.55,21.18,11,Medium
+Hassan,289.52,34,59.34,31.73,12,Medium
+Chikkamagaluru,137.04,85,14.37,22.58,4,Low
+Vijayapura,336.14,69,33.15,29.18,15,Medium
+Ramanagara,112.03,81,30.17,35.43,9,Medium
+Kalaburagi,35.73,77,28.73,37.1,12,Low
+Bengaluru Urban,126.25,64,0.61,28.17,14,Medium
+Belagavi,281.12,34,41.05,22.43,0,Medium
+Bengaluru Urban,325.69,49,37.71,32.03,13,High
+Chitradurga,121.49,30,49.38,26.93,4,Medium
+Bagalkot,266.58,97,43.86,41.96,12,High
+Chikkamagaluru,262.19,31,5.85,37.7,17,Medium
+Haveri,111.8,89,48.11,31.06,17,Medium
+Uttara Kannada,258.39,35,19.92,38.45,7,Medium
+Hassan,64.2,48,49.93,38.99,19,Medium
+Chikkaballapur,237.62,83,23.98,29.57,16,High
+Kalaburagi,115.88,60,26.83,23.84,2,Low
+Bengaluru Rural,235.19,57,14.66,36.43,5,Low
+Dharwad,267.87,70,7.76,32.3,0,Low
+Raichur,276.56,85,57.69,21.52,2,Medium
+Davanagere,9.17,97,8.5,40.01,15,Medium
+Bengaluru Urban,209.58,49,28.18,29.46,15,Medium
+Bengaluru Urban,20.69,38,58.28,30.74,3,Low
+Dharwad,339.23,83,55.06,26.0,22,High
+Davanagere,229.79,73,52.26,28.25,18,High
+Dharwad,179.44,88,58.85,36.57,21,High
+Shivamogga,231.54,44,12.76,36.46,19,Medium
+Mangaluru,92.47,91,4.69,32.91,2,Low
+Tumakuru,90.79,70,18.27,19.99,9,Low
+Koppal,274.05,45,0.39,24.55,13,Medium
+Kalaburagi,259.49,38,10.84,32.23,14,Medium
+Mysuru,29.3,61,2.04,18.86,18,Low
+Davanagere,232.89,47,15.37,41.02,3,Low
+Bidar,338.12,61,52.8,18.27,19,High
+Gadag,25.74,30,39.14,23.03,16,Medium
+Bengaluru Rural,127.94,56,13.76,35.27,2,Low
+Kalaburagi,197.14,85,42.34,41.35,18,High
+Chitradurga,273.46,55,13.47,29.65,11,Medium
+Kalaburagi,185.48,66,13.06,35.88,9,Low
+Gadag,47.22,93,18.97,30.9,3,Low
+Hassan,232.04,64,11.06,28.95,1,Low
+Gadag,347.43,47,48.26,18.39,9,Medium
+Udupi,345.57,43,9.91,22.23,25,Medium
+Mangaluru,143.55,33,33.83,32.23,22,Medium
+Mangaluru,89.36,100,19.07,22.83,17,Medium
+Vijayanagara,312.11,91,26.61,28.55,11,Medium
+Udupi,148.15,63,9.62,41.81,12,Low
+Mangaluru,146.36,61,14.36,35.16,2,Low
+Kolar,240.85,70,5.13,37.13,22,Medium
+Bengaluru Rural,147.66,32,0.51,20.61,17,Medium
+Haveri,236.0,62,54.67,26.91,6,Medium
+Vijayanagara,329.07,45,47.63,22.81,12,Medium
+Kalaburagi,316.89,32,28.63,27.96,15,Medium
+Belagavi,134.51,93,51.18,37.51,13,High
+Tumakuru,348.0,39,24.82,35.99,9,Medium
+Ballari,59.0,97,9.38,33.4,25,Medium
+Udupi,327.49,82,49.92,35.25,23,High
+Hassan,311.52,58,13.85,22.79,16,Medium
+Chikkaballapur,226.54,59,40.5,25.16,1,Medium
+Uttara Kannada,182.36,89,10.94,29.16,23,Medium
+Yadgir,178.97,30,16.21,39.6,7,Low
+Bengaluru Rural,35.92,93,27.13,32.4,15,Medium
+Yadgir,166.67,72,5.25,36.46,13,Medium
+Bengaluru Rural,206.16,91,54.57,20.21,21,High
+Mandya,8.38,58,42.99,29.28,0,Low
+Tumakuru,255.63,94,21.37,39.48,23,High
+Belagavi,214.14,32,29.94,18.28,11,Medium
+Belagavi,81.8,84,45.92,28.49,13,Medium
+Hassan,255.28,48,31.21,27.05,10,Medium
+Dharwad,111.49,41,42.71,20.11,14,Medium
+Chikkaballapur,189.94,69,51.66,22.16,7,Medium
+Raichur,317.87,33,37.2,38.54,21,High
+Kalaburagi,297.99,87,12.9,24.3,4,Medium
+Mysuru,24.29,75,58.85,37.37,24,Medium
+Chamarajanagar,204.44,43,39.65,38.88,1,Medium
+Bengaluru Urban,187.37,68,9.9,28.25,8,Low
+Uttara Kannada,334.86,97,45.37,37.83,15,High
+Chamarajanagar,6.68,39,40.15,38.75,14,Medium
+Vijayanagara,341.39,67,7.76,38.51,14,Medium
+Davanagere,316.33,30,11.89,26.67,13,Medium
+Ramanagara,34.43,84,52.48,20.68,23,Medium
+Shivamogga,34.18,39,12.06,21.99,0,Low
+Yadgir,154.69,95,54.68,23.67,24,High
+Kolar,198.41,35,35.34,35.4,17,Medium
+Chikkaballapur,158.85,54,47.07,24.83,21,Medium
+Dharwad,229.85,74,43.56,18.12,23,High
+Yadgir,267.04,94,51.02,19.02,0,Medium
+Davanagere,158.53,85,28.51,27.14,18,Medium
+Mysuru,143.02,49,5.54,35.76,2,Low
+Bidar,158.19,49,10.65,19.37,9,Low
+Vijayapura,246.69,90,16.85,27.13,18,Medium
+Vijayanagara,345.2,98,25.88,23.46,17,High
+Chamarajanagar,28.24,95,55.36,37.82,9,Medium
+Kodagu,150.97,48,54.08,39.83,14,Medium
+Chikkamagaluru,273.77,51,58.21,26.8,20,High
+Mysuru,109.17,71,3.3,31.46,7,Low
+Chitradurga,96.2,42,56.93,28.57,1,Low
+Koppal,246.43,33,33.68,19.54,21,Medium
+Davanagere,252.64,49,35.94,29.87,14,High
+Bagalkot,16.22,33,55.92,28.06,2,Low
+Vijayanagara,156.03,72,24.42,24.43,19,Medium
+Kalaburagi,242.37,49,5.85,23.39,14,Medium
+Vijayanagara,344.17,33,24.9,36.55,1,Medium
+Hassan,48.57,41,20.68,37.09,5,Low
+Chikkamagaluru,4.27,95,34.99,37.25,15,Medium
+Chikkamagaluru,76.43,30,49.65,28.37,8,Medium
+Shivamogga,17.4,79,19.78,35.92,12,Low
+Kalaburagi,80.42,62,43.38,24.18,10,Medium
+Kodagu,28.9,74,59.09,19.04,18,Medium
+Udupi,258.63,44,0.02,27.73,24,Medium
+Mysuru,297.14,50,12.13,38.24,11,Medium
+Mandya,125.5,49,17.12,27.38,3,Low
+Chikkamagaluru,140.85,38,15.68,19.55,25,Medium
+Vijayanagara,208.99,53,42.9,31.45,9,Medium
+Bagalkot,330.75,65,53.67,41.47,16,High
+Bengaluru Urban,174.56,100,10.94,18.92,16,Medium
+Yadgir,136.46,98,28.89,28.28,16,Medium
+Ballari,292.17,99,33.15,41.76,23,High
+Uttara Kannada,214.87,37,15.93,37.94,6,Low
+Yadgir,241.1,46,20.62,30.47,8,Medium
+Gadag,273.61,95,36.64,20.7,2,Medium
+Mandya,118.47,51,38.75,40.3,9,Medium
+Chikkaballapur,20.12,43,58.4,40.89,8,Medium
+Chitradurga,259.46,51,22.82,35.39,5,Medium
+Chikkaballapur,154.83,51,0.35,29.76,4,Low
+Udupi,328.0,72,0.7,32.92,25,Medium
+Gadag,233.49,48,3.61,32.33,24,Medium
+Chitradurga,81.91,65,36.15,29.58,22,Medium
+Mysuru,237.78,46,2.05,41.58,25,Medium
+Chikkaballapur,321.58,65,20.11,32.29,24,Medium
+Mysuru,142.8,61,28.19,37.52,22,Medium
+Raichur,104.35,32,13.37,21.42,11,Low
+Chamarajanagar,11.47,63,55.93,20.03,9,Medium
+Mangaluru,246.32,49,38.25,34.85,10,Medium
+Vijayapura,109.14,89,3.31,23.78,21,Medium
+Chikkaballapur,252.2,60,53.15,25.34,14,High
+Kalaburagi,280.67,79,37.44,33.38,7,Medium
+Yadgir,199.91,97,43.97,41.37,17,High
+Ballari,235.03,37,36.12,30.3,15,High
+Chikkaballapur,71.17,52,9.21,23.64,21,Low
+Gadag,349.47,80,59.31,29.51,7,Medium
+Chikkamagaluru,41.29,96,19.28,31.5,8,Low
+Bengaluru Rural,243.08,100,59.23,33.35,9,High
+Chikkaballapur,44.47,95,36.09,38.84,23,Medium
+Ramanagara,161.1,99,39.73,29.48,4,Medium
+Mandya,171.36,76,13.49,36.35,25,Medium
+Mysuru,199.51,49,52.44,30.09,17,Medium
+Chikkamagaluru,303.89,66,7.16,22.42,12,Medium
+Mandya,71.79,56,9.09,39.82,9,Low
+Davanagere,42.46,91,39.83,23.7,25,Medium
+Chitradurga,306.03,56,31.42,24.85,19,Medium
+Haveri,187.41,47,28.76,29.9,21,Medium
+Bagalkot,310.1,85,58.5,25.51,9,High
+Davanagere,316.54,38,52.3,34.36,9,Medium
+Davanagere,95.3,73,45.09,27.54,15,Medium
+Kodagu,295.33,41,53.17,37.84,7,Medium
+Koppal,41.15,62,50.86,27.56,17,Medium
+Vijayanagara,305.84,43,58.42,26.43,21,High
+Hassan,52.01,62,30.61,24.29,17,Medium
+Uttara Kannada,48.93,53,45.84,29.67,13,Medium
+Bagalkot,65.62,59,7.83,41.99,14,Low
+Davanagere,235.99,58,23.01,23.21,6,Medium
+Ramanagara,302.99,42,40.87,23.04,24,High
+Kalaburagi,123.62,34,31.63,24.98,17,Medium
+Bagalkot,72.88,31,44.27,26.18,5,Low
+Udupi,104.24,80,15.86,33.42,6,Low
+Shivamogga,123.62,62,8.83,28.01,19,Medium
+Chikkaballapur,212.72,64,5.36,18.77,6,Low
+Mysuru,341.92,99,55.14,32.31,20,High
+Hassan,221.03,55,46.53,32.03,1,Medium
+Mangaluru,161.63,82,6.87,41.89,17,Medium
+Mysuru,309.43,50,29.77,38.22,14,Medium
+Bengaluru Rural,271.57,31,37.59,23.38,2,Medium
+Chitradurga,130.78,89,57.59,27.79,22,High
+Tumakuru,323.32,79,13.32,37.08,23,Medium
+Shivamogga,151.72,68,13.4,30.41,12,Low
+Chikkamagaluru,321.15,99,15.14,28.34,7,Medium
+Raichur,143.17,90,10.79,38.77,16,Medium
+Koppal,93.75,37,11.06,21.61,14,Low
+Bengaluru Rural,261.83,70,42.37,29.04,2,Medium
+Bengaluru Urban,81.04,32,18.2,32.08,10,Low
+Shivamogga,257.59,49,51.5,18.68,10,Medium
+Mysuru,19.37,68,53.62,38.55,15,Medium
+Bagalkot,333.05,100,3.36,22.19,22,Medium
+Chikkamagaluru,3.19,30,46.04,25.57,9,Medium
+Bagalkot,340.77,55,41.65,21.22,9,Medium
+Ramanagara,294.43,71,57.81,29.43,7,Medium
+Belagavi,155.41,69,20.11,32.3,10,Medium
+Mysuru,275.3,84,50.97,24.06,5,Medium
+Gadag,325.58,96,51.49,40.27,8,High
+Belagavi,155.06,70,19.82,26.1,14,Medium
+Uttara Kannada,229.66,88,6.79,34.39,16,Medium
+Ramanagara,127.29,40,22.06,18.43,10,Medium
+Shivamogga,113.06,68,35.43,37.98,4,Low
+Shivamogga,181.56,38,19.66,20.27,9,Low
+Shivamogga,316.53,41,27.88,34.75,15,Medium
+Kolar,82.51,73,48.92,19.06,20,Medium
+Chikkamagaluru,332.24,89,18.27,39.6,5,Medium
+Davanagere,336.16,64,49.88,19.19,6,Medium
+Gadag,189.53,83,10.59,37.96,6,Medium
+Davanagere,223.98,67,2.39,39.4,3,Low
+Mangaluru,55.93,44,55.97,40.64,24,Medium
+Udupi,339.93,96,14.24,27.72,0,Medium
+Ballari,138.81,51,47.12,28.78,14,Medium
+Gadag,180.49,71,32.84,38.1,4,Low
+Mangaluru,176.24,81,19.4,25.98,14,Medium
+Haveri,171.29,86,16.58,31.94,4,Low
+Koppal,0.82,78,8.98,41.45,4,Low
+Bengaluru Urban,71.84,71,16.89,23.9,18,Low
+Gadag,195.74,48,51.42,28.03,21,Medium
+Shivamogga,82.67,97,11.29,23.11,16,Medium
+Yadgir,226.66,82,4.17,29.2,15,Medium
+Raichur,339.7,50,42.76,19.4,8,Medium
+Uttara Kannada,201.17,72,8.74,32.9,2,Low
+Kalaburagi,202.73,68,8.9,35.35,4,Low
+Shivamogga,234.96,36,38.63,41.53,17,High
+Raichur,290.07,30,21.77,32.87,9,Medium
+Kolar,128.58,51,7.0,40.77,4,Low
+Haveri,142.97,40,49.27,38.53,24,Medium
+Yadgir,280.69,70,6.25,29.43,19,Medium
+Chikkaballapur,52.86,60,26.42,41.3,9,Low
+Mangaluru,34.23,31,6.51,31.89,21,Low
+Mangaluru,31.31,69,39.0,33.12,22,Medium
+Ballari,342.7,51,18.99,35.58,6,Medium
+Chitradurga,111.98,37,49.05,29.0,22,Medium
+Kolar,149.54,54,22.61,22.4,0,Low
+Udupi,80.26,76,59.77,23.24,8,Medium
+Chikkaballapur,57.79,39,54.39,18.14,1,Low
+Mysuru,72.06,40,39.68,19.88,1,Low
+Raichur,29.43,39,29.04,22.67,16,Medium
+Hassan,171.71,45,49.07,23.09,25,Medium
+Hassan,220.63,82,46.89,37.17,9,High
+Vijayanagara,262.4,77,20.52,36.12,9,Medium
+Gadag,288.12,92,48.63,37.5,14,High
+Udupi,232.51,33,13.33,19.7,4,Low
+Bagalkot,69.72,50,45.52,25.11,6,Medium
+Bengaluru Urban,83.96,100,41.09,21.53,2,Medium
+Kolar,43.74,95,9.98,33.68,0,Low
+Kodagu,190.95,76,36.23,21.97,18,Medium
+Yadgir,266.71,85,7.04,21.31,21,Medium
+Tumakuru,148.11,47,20.04,24.78,15,Medium
+Vijayapura,278.24,37,13.47,21.74,23,Medium
+Koppal,160.54,50,25.17,41.71,23,Medium
+Vijayanagara,258.14,56,6.2,33.24,16,Medium
+Hassan,48.66,61,28.49,31.31,15,Medium
+Chikkaballapur,8.47,64,55.36,41.17,18,Medium
+Mysuru,261.2,85,18.35,25.87,6,Medium
+Bidar,15.71,77,24.11,23.83,25,Medium
+Chikkaballapur,161.47,100,32.55,37.13,22,Medium
+Udupi,305.36,59,1.83,41.41,8,Medium
+Chamarajanagar,118.36,94,28.07,38.23,19,Medium
+Mangaluru,91.39,61,55.52,30.25,10,Medium
+Yadgir,201.13,40,21.47,22.93,7,Medium
+Mandya,293.7,78,54.93,41.5,20,High
+Bidar,67.19,74,33.71,19.78,23,Medium
+Bengaluru Rural,28.82,54,36.9,35.75,23,Medium
+Kalaburagi,0.29,96,56.59,28.77,12,Medium
+Uttara Kannada,121.94,48,22.3,27.66,9,Medium
+Chamarajanagar,320.02,77,39.93,22.42,17,High
+Mandya,245.06,59,27.51,23.57,5,Medium
+Hassan,37.88,84,0.49,19.02,2,Low
+Dharwad,28.53,87,41.34,21.2,11,Medium
+Gadag,267.14,63,8.23,25.02,16,Medium
+Bidar,258.48,94,50.32,26.56,8,High
+Bagalkot,267.57,100,52.72,18.84,10,High
+Gadag,113.94,98,36.82,29.35,11,Medium
+Vijayapura,184.89,70,46.87,18.58,17,Medium
+Chikkamagaluru,50.72,42,2.39,27.62,22,Low
+Shivamogga,316.53,57,51.38,38.35,22,High
+Chikkaballapur,241.36,32,44.28,19.41,18,High
+Mandya,328.69,56,56.76,31.71,25,High
+Chikkaballapur,279.19,32,39.85,41.9,19,High
+Hassan,290.06,98,56.57,36.62,4,Medium
+Raichur,293.59,57,47.74,23.84,12,Medium
+Chamarajanagar,266.67,46,59.58,22.08,20,High
+Vijayanagara,334.59,94,40.71,38.89,13,High
+Chikkamagaluru,105.34,61,36.57,41.55,0,Low
+Chitradurga,38.24,77,44.51,33.76,21,Medium
+Raichur,35.01,80,5.12,36.69,13,Low
+Koppal,298.91,47,20.32,38.36,20,Medium
+Bengaluru Urban,3.37,81,26.95,32.98,20,Medium
+Gadag,89.55,79,30.08,21.66,15,Medium
+Uttara Kannada,212.69,78,49.1,38.51,14,Medium
+Mysuru,168.81,93,45.43,37.71,1,Medium
+Ramanagara,271.64,36,44.09,26.98,21,High
+Bengaluru Urban,94.21,61,18.46,28.3,10,Low
+Gadag,247.02,36,39.72,27.33,0,Medium
+Udupi,206.03,97,21.15,30.38,0,Medium
+Kodagu,28.87,80,51.81,30.66,1,Low
+Bagalkot,154.86,56,52.69,35.36,22,Medium
+Bengaluru Urban,10.1,34,13.57,21.77,17,Low
+Chitradurga,165.06,100,4.58,21.84,14,Medium
+Raichur,336.93,35,56.25,35.02,23,High
+Belagavi,187.92,92,39.07,19.2,24,High
+Udupi,245.26,52,30.01,23.36,17,Medium
+Chamarajanagar,303.72,34,54.74,20.48,15,High
+Bagalkot,301.65,37,25.02,23.12,19,Medium
+Haveri,144.38,67,15.74,33.95,17,Medium
+Vijayapura,283.63,48,20.64,35.64,11,Medium
+Kolar,297.03,73,37.06,36.55,17,High
+Gadag,27.58,44,41.94,41.23,24,Medium
+Kolar,247.85,72,33.33,38.4,18,Medium
+Gadag,253.88,56,12.22,39.77,12,Medium
+Dharwad,71.0,67,54.3,29.8,13,Medium
+Bengaluru Rural,75.7,67,21.92,23.75,15,Medium
+Vijayanagara,346.43,73,57.87,18.67,4,Medium
+Chamarajanagar,97.2,57,57.16,25.58,9,Medium
+Ballari,248.61,34,53.57,36.27,0,Medium
+Mangaluru,78.73,86,35.6,29.45,20,Medium
+Mysuru,102.26,50,34.69,31.46,4,Low
+Chikkaballapur,111.62,37,27.95,32.88,11,Low
+Chitradurga,255.83,85,12.08,38.55,8,Medium
+Bengaluru Rural,100.87,34,34.39,35.27,17,Medium
+Raichur,133.32,48,30.54,30.01,2,Low
+Davanagere,220.03,84,20.84,30.8,22,High
+Tumakuru,266.32,32,20.21,35.44,4,Medium
+Chikkaballapur,206.91,44,33.71,23.05,11,Medium
+Mandya,135.75,32,17.87,21.27,16,Medium
+Uttara Kannada,3.87,51,33.53,34.01,9,Low
+Mandya,304.82,54,46.76,18.38,4,Medium
+Mandya,168.75,98,27.05,18.6,21,Medium
+Kalaburagi,220.19,34,48.19,40.26,9,Medium
+Udupi,119.44,79,26.39,39.99,4,Low
+Ballari,279.71,91,19.98,27.02,11,Medium
+Vijayapura,74.13,51,16.37,24.41,0,Low
+Chikkamagaluru,340.8,99,44.45,40.87,3,Medium
+Vijayapura,75.68,47,54.26,36.52,3,Low
+Vijayapura,230.62,97,44.13,34.18,16,High
+Mysuru,252.87,62,13.67,33.23,8,Medium
+Mangaluru,220.21,41,56.76,20.07,13,High
+Belagavi,248.1,61,14.55,30.97,19,Medium
+Vijayapura,213.17,74,11.12,35.24,11,Low
+Raichur,187.42,80,32.04,24.51,15,Medium
+Bidar,127.57,51,34.05,34.8,4,Low
+Chitradurga,77.64,38,35.77,37.37,19,Medium
+Vijayapura,343.21,77,43.17,23.85,10,Medium
+Kolar,57.16,97,3.17,32.75,9,Low
+Bagalkot,101.18,55,14.33,36.44,19,Low
+Koppal,150.23,70,30.43,32.33,10,Medium
+Kodagu,290.68,96,1.22,28.69,20,Medium
+Dharwad,201.71,36,50.55,25.0,5,Medium
+Mysuru,241.86,87,26.08,25.51,5,Medium
+Koppal,142.48,39,11.71,28.36,6,Low
+Bengaluru Rural,212.99,60,39.36,36.32,15,Medium
+Kolar,165.74,99,56.39,23.42,25,High
+Kolar,52.09,69,22.45,28.4,14,Medium
+Udupi,103.33,40,29.28,28.97,14,Medium
+Bengaluru Urban,89.69,100,1.92,38.44,5,Low
+Vijayanagara,245.5,71,17.74,19.67,13,Medium
+Davanagere,179.92,52,44.17,23.24,17,Medium
+Ramanagara,251.73,69,5.55,36.44,25,Medium
+Chikkaballapur,180.34,88,20.0,20.11,14,Medium
+Bagalkot,326.9,87,37.23,19.93,17,High
+Gadag,135.36,55,39.53,28.28,20,Medium
+Davanagere,93.37,46,20.82,26.63,4,Low
+Chikkamagaluru,13.79,43,4.47,39.3,19,Low
+Bengaluru Urban,277.84,41,52.62,32.28,19,High
+Chamarajanagar,286.62,85,47.65,38.96,12,High
+Vijayanagara,318.44,55,34.04,21.86,21,Medium
+Mandya,99.56,41,49.99,39.2,25,Medium
+Shivamogga,136.29,59,16.08,24.6,18,Medium
+Davanagere,100.49,98,5.04,34.32,19,Medium
+Chamarajanagar,254.25,34,56.01,21.23,13,High
+Shivamogga,38.46,64,58.02,24.82,2,Low
+Hassan,174.55,71,12.1,25.87,7,Low
+Vijayanagara,274.35,41,16.03,25.41,23,Medium
+Hassan,156.16,38,59.67,40.93,9,Medium
+Haveri,68.64,96,9.15,31.24,7,Low
+Raichur,172.85,45,33.37,22.2,3,Low
+Ballari,70.34,80,26.03,25.87,1,Low
+Chitradurga,16.53,96,11.61,25.08,10,Low
+Chamarajanagar,297.77,94,54.59,23.3,14,High
+Yadgir,341.12,64,8.81,36.23,14,Medium
+Yadgir,206.15,55,23.37,30.4,15,Medium
+Chikkamagaluru,38.02,58,8.42,36.23,14,Low
+Tumakuru,52.83,98,18.66,28.62,14,Medium
+Dharwad,155.07,70,40.0,19.64,3,Medium
+Ballari,276.51,51,24.36,38.08,15,Medium
+Chamarajanagar,290.2,80,49.75,39.27,21,High
+Kodagu,148.73,40,18.68,28.55,22,Medium
+Uttara Kannada,243.68,96,23.15,23.12,19,High
+Belagavi,207.51,51,27.91,29.01,13,Medium
+Yadgir,255.64,34,18.02,19.29,3,Low
+Vijayapura,49.45,55,0.82,21.38,11,Low
+Ballari,273.39,66,54.74,24.18,19,High
+Ramanagara,173.42,41,36.57,18.16,0,Medium
+Bengaluru Urban,316.11,63,53.53,26.03,25,High
+Kalaburagi,188.5,39,28.9,22.26,13,Medium
+Chikkaballapur,133.68,46,25.84,38.5,5,Low
+Belagavi,165.13,52,20.9,34.19,13,Medium
+Mangaluru,226.34,97,17.73,30.85,23,Medium
+Ramanagara,97.07,89,42.45,21.64,2,Medium
+Shivamogga,313.09,82,19.85,40.13,6,Medium
+Davanagere,262.33,83,51.48,28.42,19,High
+Ballari,49.53,93,26.93,28.32,20,Medium
+Bagalkot,161.66,36,19.57,36.19,21,Medium
+Shivamogga,284.58,97,38.4,34.1,17,High
+Tumakuru,293.21,40,31.32,22.02,9,Medium
+Bidar,331.09,56,58.87,18.52,6,Medium
+Belagavi,24.65,35,31.17,37.64,7,Low
+Udupi,7.4,66,17.36,29.32,17,Low
+Vijayanagara,129.66,62,4.08,20.35,9,Low
+Bagalkot,189.69,96,43.13,25.31,25,High
+Udupi,95.44,95,40.86,20.45,24,Medium
+Mysuru,80.29,49,27.99,34.22,16,Medium
+Belagavi,148.52,37,36.07,27.71,19,Medium
+Bengaluru Urban,223.0,65,58.07,31.24,8,Medium
+Gadag,190.46,72,55.86,20.91,4,Medium
+Mysuru,149.23,90,17.59,41.52,7,Medium
+Gadag,111.62,87,9.63,25.52,7,Low
+Belagavi,265.87,52,27.68,37.94,2,Medium
+Tumakuru,325.3,41,33.59,19.26,6,Medium
+Belagavi,213.78,52,55.56,34.12,6,Medium
+Uttara Kannada,161.23,74,35.33,25.69,22,Medium
+Tumakuru,96.29,41,40.07,30.69,6,Medium
+Tumakuru,337.08,54,48.45,31.39,18,High
+Dharwad,281.64,58,14.46,32.5,0,Low
+Kalaburagi,303.5,33,26.59,33.66,17,Medium
+Hassan,219.06,86,20.93,22.65,7,Medium
+Davanagere,238.73,43,43.44,29.7,11,Medium
+Bengaluru Rural,45.91,98,49.7,21.38,21,Medium
+Raichur,49.38,76,34.43,26.15,2,Low
+Mysuru,294.45,56,1.78,41.21,20,Medium
+Udupi,288.51,40,12.79,36.4,16,Medium
+Vijayapura,111.79,30,45.55,41.24,11,Medium
+Chitradurga,285.08,55,22.6,37.06,1,Medium
+Gadag,127.97,93,13.27,23.57,2,Low
+Chikkaballapur,253.84,39,38.24,19.65,10,Medium
+Hassan,307.01,63,14.77,37.11,17,Medium
+Yadgir,300.71,39,51.8,18.56,23,High
+Koppal,294.53,60,26.57,27.47,19,Medium
+Bengaluru Urban,91.8,59,6.16,22.9,11,Low
+Vijayapura,212.78,56,22.78,27.27,21,Medium
+Gadag,187.99,59,27.11,35.6,3,Low
+Udupi,328.67,53,23.16,30.73,18,Medium
+Chikkamagaluru,318.44,45,51.69,25.66,23,High
+Ramanagara,256.56,37,56.45,23.42,21,High
+Mysuru,143.33,50,18.02,22.12,18,Medium
+Bidar,208.31,33,45.96,22.8,12,Medium
+Ramanagara,43.8,49,29.26,25.63,16,Medium
+Chikkaballapur,238.26,78,45.28,26.18,3,Medium
+Bagalkot,312.56,32,8.32,35.21,25,Medium
+Vijayapura,193.5,43,29.89,32.93,23,Medium
+Chikkamagaluru,249.03,55,13.91,23.68,1,Low
+Belagavi,76.73,99,56.85,23.46,3,Medium
+Chitradurga,331.19,93,20.11,25.21,10,Medium
+Yadgir,222.89,95,19.62,40.25,16,Medium
+Bengaluru Rural,110.47,52,10.84,18.09,21,Low
+Chikkamagaluru,52.07,85,29.44,31.74,2,Low
+Bidar,26.0,94,59.14,18.49,7,Medium
+Bengaluru Urban,195.43,56,21.69,20.01,21,Medium
+Kodagu,144.03,62,53.23,32.93,9,Medium
+Chitradurga,58.43,36,50.74,31.41,12,Medium
+Bengaluru Urban,40.68,55,14.02,20.41,14,Low
+Udupi,306.88,99,23.35,41.25,14,High
+Mysuru,37.83,64,44.78,24.16,22,Medium
+Bengaluru Rural,314.44,41,34.3,26.07,10,Medium
+Chikkaballapur,321.54,39,56.51,31.98,0,Medium
+Yadgir,88.91,52,48.43,26.7,5,Low
+Chikkaballapur,52.91,83,24.35,34.51,20,Medium
+Mandya,97.44,97,23.15,22.56,1,Low
+Vijayapura,218.36,73,26.02,36.62,15,Medium
+Hassan,200.27,46,8.21,35.26,13,Medium
+Hassan,32.43,70,27.83,31.44,9,Low
+Vijayapura,157.35,77,45.23,21.86,10,Medium
+Kodagu,314.16,41,2.42,26.49,22,Medium
+Mysuru,169.06,79,31.59,29.55,19,Medium
+Belagavi,152.24,54,41.05,20.12,8,Medium
+Davanagere,194.6,56,5.37,32.85,12,Low
+Chikkamagaluru,242.33,35,41.33,24.79,4,Medium
+Vijayapura,196.95,38,31.55,39.62,5,Low
+Haveri,159.86,72,27.74,36.47,8,Medium
+Chitradurga,117.62,33,20.89,24.18,13,Medium
+Belagavi,277.81,54,12.79,22.64,11,Medium
+Gadag,313.43,54,5.81,25.23,16,Medium
+Chikkamagaluru,32.94,55,14.48,37.7,20,Low
+Bidar,85.27,97,18.9,29.8,17,Medium
+Chikkaballapur,184.0,64,12.48,19.64,21,Medium
+Gadag,60.21,37,15.72,33.99,6,Low
+Bengaluru Rural,11.78,34,22.01,18.82,11,Low
+Shivamogga,219.23,52,37.92,24.08,4,Medium
+Belagavi,45.0,54,27.15,26.08,4,Low
+Mangaluru,327.27,49,13.18,21.39,0,Low
+Chikkaballapur,298.11,79,3.81,29.86,13,Medium
+Ramanagara,302.44,63,7.1,23.36,22,Medium
+Kalaburagi,348.3,39,44.48,32.93,25,High
+Tumakuru,225.81,80,5.85,22.78,0,Low
+Chikkaballapur,37.77,80,22.61,40.65,12,Low
+Davanagere,189.89,52,8.84,39.46,19,Medium
+Dharwad,241.18,73,0.87,20.86,13,Medium
+Dharwad,125.96,87,30.9,20.92,7,Medium
+Chitradurga,312.75,79,40.16,20.83,17,High
+Uttara Kannada,49.68,95,56.43,40.47,12,Medium
+Davanagere,29.78,74,29.47,40.42,9,Low
+Uttara Kannada,270.32,87,41.07,28.24,12,High
+Chamarajanagar,37.17,73,33.54,37.33,24,Medium
+Shivamogga,95.98,31,55.79,27.16,24,Medium
+Tumakuru,18.8,71,41.2,32.11,22,Medium
+Bengaluru Rural,137.84,44,8.58,34.69,19,Medium
+Dharwad,164.65,41,53.15,25.28,14,Medium
+Ramanagara,103.58,53,34.12,18.65,11,Low
+Vijayapura,329.32,31,30.37,24.24,20,Medium
+Bidar,51.6,100,0.33,40.54,9,Low
+Davanagere,341.72,98,25.32,23.68,14,High
+Haveri,165.41,85,57.49,26.04,20,High
+Kodagu,212.41,94,58.99,30.45,4,Medium
+Gadag,246.46,54,47.77,35.8,12,Medium
+Belagavi,274.2,52,3.97,36.64,10,Medium
+Kodagu,95.77,77,50.25,37.23,10,Medium
+Mangaluru,8.21,62,54.76,23.56,14,Medium
+Koppal,235.27,80,37.73,41.99,19,High
+Gadag,178.27,66,23.03,20.99,20,Medium
+Davanagere,290.64,100,58.99,18.27,6,High
+Tumakuru,282.82,45,55.65,37.76,21,High
+Yadgir,299.2,38,20.56,20.22,2,Medium
+Mandya,244.77,31,59.72,19.43,8,Medium
+Chikkamagaluru,75.68,43,51.47,28.97,8,Medium
+Dharwad,300.92,60,23.1,34.19,24,Medium
+Bagalkot,80.65,61,19.99,30.42,15,Low
+Udupi,59.96,76,25.02,39.71,20,Medium
+Yadgir,153.21,31,53.05,23.87,2,Medium
+Gadag,5.69,100,41.82,41.68,3,Medium
+Bagalkot,315.83,39,24.8,40.01,20,Medium
+Gadag,60.62,57,10.2,26.94,9,Low
+Uttara Kannada,301.94,64,3.12,32.56,8,Medium
+Hassan,308.36,53,1.34,24.63,0,Low
+Bengaluru Rural,13.12,74,23.31,41.16,3,Low
+Uttara Kannada,186.76,72,46.23,38.4,0,Medium
+Dharwad,5.82,69,30.4,37.46,15,Medium
+Tumakuru,75.05,52,48.03,38.88,9,Medium
+Uttara Kannada,212.76,63,17.35,24.74,9,Low
+Vijayanagara,333.34,82,38.22,38.9,22,High
+Davanagere,297.42,73,44.56,25.42,4,Medium
+Chitradurga,172.24,33,22.45,37.18,9,Medium
+Ballari,30.67,95,5.64,30.97,14,Medium
+Udupi,155.07,35,19.83,30.81,7,Low
+Bidar,99.43,50,36.71,23.47,19,Medium
+Kalaburagi,1.09,90,20.79,30.62,19,Medium
+Dharwad,326.52,38,9.72,19.24,17,Medium
+Chikkamagaluru,65.82,46,7.17,24.89,23,Low
+Vijayanagara,151.54,82,25.46,39.72,6,Medium
+Tumakuru,5.92,53,52.31,37.68,19,Medium
+Uttara Kannada,310.15,81,45.95,23.29,8,High
+Mysuru,104.65,93,23.43,37.21,20,Medium
+Uttara Kannada,41.65,94,30.08,27.51,22,Medium
+Haveri,319.73,55,30.33,40.79,3,Medium
+Raichur,142.43,95,33.95,19.78,17,Medium
+Chitradurga,26.98,84,41.21,36.36,5,Medium
+Mysuru,82.26,55,54.69,28.57,25,Medium
+Bidar,76.58,37,10.3,27.41,10,Low
+Davanagere,288.77,68,51.96,39.63,22,High
+Raichur,346.36,54,47.69,33.11,6,Medium
+Kodagu,82.19,43,6.39,34.96,17,Low
+Ballari,33.82,73,20.66,22.39,14,Medium
+Yadgir,30.38,78,44.07,21.76,6,Medium
+Shivamogga,179.64,64,29.94,27.1,7,Medium
+Mysuru,125.91,31,18.75,26.87,17,Medium
+Ramanagara,117.1,31,15.82,38.55,11,Low
+Vijayapura,13.09,65,48.26,38.24,14,Medium
+Belagavi,278.37,63,38.33,19.64,9,Medium
+Dharwad,287.25,58,36.72,22.64,14,High
+Chikkamagaluru,189.43,39,45.45,39.08,21,Medium
+Hassan,232.21,49,30.58,22.97,23,Medium
+Vijayanagara,0.06,99,24.54,32.13,21,Medium
+Gadag,242.01,63,45.37,36.42,1,Medium
+Haveri,281.03,55,43.07,38.91,18,High
+Ballari,270.82,55,22.92,22.27,3,Medium
+Chikkamagaluru,140.57,94,20.38,22.27,24,Medium
+Chitradurga,135.59,31,12.36,40.52,13,Medium
+Kolar,93.17,53,32.72,30.62,22,Medium
+Shivamogga,233.36,84,15.19,37.32,1,Medium
+Dharwad,213.68,65,8.0,35.59,5,Low
+Gadag,10.46,83,13.01,18.1,13,Medium
+Mysuru,50.21,96,39.57,24.71,25,Medium
+Koppal,126.26,37,15.02,21.17,7,Low
+Kodagu,139.91,76,33.31,20.02,14,Medium
+Dharwad,28.81,83,6.58,39.92,16,Medium
+Chamarajanagar,74.71,82,26.22,20.68,8,Medium
+Tumakuru,262.63,97,42.47,28.82,0,Medium
+Udupi,167.0,70,30.4,20.11,24,Medium
+Uttara Kannada,335.76,40,58.19,29.3,20,High
+Mandya,332.28,75,48.86,21.73,9,Medium
+Yadgir,203.5,38,37.25,41.79,21,Medium
+Kodagu,137.71,45,29.37,34.72,25,Medium
+Mandya,163.55,65,26.66,22.09,11,Medium
+Bengaluru Rural,118.19,31,22.08,36.37,15,Medium
+Yadgir,348.1,95,13.86,27.48,1,Medium
+Kalaburagi,108.29,99,4.96,41.76,18,Medium
+Haveri,25.99,74,55.9,19.17,4,Low
+Belagavi,198.88,38,15.11,35.61,6,Low
+Kolar,34.7,88,11.06,23.89,11,Low
+Koppal,219.77,52,49.19,30.65,13,Medium
+Mangaluru,62.8,32,35.46,30.94,16,Medium
+Kodagu,275.57,47,40.04,23.85,6,Medium
+Belagavi,96.29,65,28.42,18.17,15,Medium
+Mysuru,147.11,95,14.15,23.85,5,Low
+Vijayapura,277.36,48,12.17,36.26,10,Medium
+Kalaburagi,53.55,35,32.99,35.92,5,Low
+Uttara Kannada,220.95,86,49.5,29.66,9,High
+Mysuru,214.3,75,33.91,39.58,24,Medium
+Kodagu,139.02,68,49.33,26.75,21,Medium
+Raichur,318.08,89,54.21,27.03,0,Medium
+Koppal,299.94,94,20.43,26.34,0,Medium
+Mandya,172.49,86,27.16,34.43,16,Medium
+Shivamogga,70.06,46,56.95,38.26,23,Medium
+Hassan,52.55,61,2.27,39.5,15,Low
+Dharwad,130.05,72,40.44,30.24,2,Medium
+Chikkamagaluru,106.08,65,3.96,29.81,3,Low
+Chikkamagaluru,175.56,54,28.24,35.52,25,Medium
+Ballari,62.24,51,56.49,25.2,5,Low
+Raichur,207.89,34,11.58,27.72,1,Low
+Mangaluru,74.83,54,54.55,19.91,18,Medium
+Hassan,279.86,50,23.53,20.83,25,Medium
+Bidar,18.87,63,42.88,26.17,9,Medium
+Vijayapura,326.47,95,49.46,37.43,16,High
+Bengaluru Rural,301.71,62,3.56,37.45,17,Medium
+Yadgir,247.15,87,15.03,40.61,24,Medium
+Bagalkot,30.64,95,31.76,27.73,3,Low
+Kalaburagi,49.72,79,26.24,18.88,8,Low
+Yadgir,271.54,71,0.41,35.45,0,Low
+Ramanagara,259.97,64,34.83,18.9,19,Medium
+Davanagere,334.99,49,38.22,37.02,22,High
+Haveri,192.54,49,42.58,40.06,18,Medium
+Bengaluru Rural,309.28,79,3.26,37.57,24,Medium
+Haveri,9.32,30,2.2,27.61,7,Low
+Ramanagara,248.19,69,35.61,39.54,18,High
+Mangaluru,137.09,79,26.29,38.86,12,Medium
+Chikkaballapur,27.17,68,13.82,24.76,18,Low
+Haveri,6.42,73,16.53,26.24,9,Low
+Chamarajanagar,272.93,91,34.66,22.58,3,Medium
+Bengaluru Rural,84.2,72,46.18,21.39,20,Medium
+Mangaluru,121.34,32,50.99,31.17,25,Medium
+Mandya,266.76,53,30.62,32.52,6,Medium
+Hassan,254.45,49,56.45,31.19,0,Medium
+Bengaluru Rural,320.73,36,46.92,25.13,16,High
+Shivamogga,59.96,54,15.2,33.67,15,Low
+Belagavi,283.56,54,55.05,21.56,25,High
+Kalaburagi,64.17,31,45.98,25.23,5,Low
+Udupi,258.94,54,34.11,35.02,24,Medium
+Mandya,120.25,99,22.7,32.09,22,Medium
+Dharwad,129.43,83,24.92,21.09,14,Medium
+Uttara Kannada,52.54,99,16.78,32.21,19,Medium
+Mysuru,319.58,95,43.53,29.7,2,Medium
+Bengaluru Urban,249.7,54,5.83,28.02,0,Low
+Kolar,161.2,91,52.46,21.77,5,Medium
+Vijayapura,185.03,41,3.22,19.35,19,Medium
+Vijayapura,260.36,90,56.26,41.55,11,High
+Kalaburagi,24.83,50,46.89,34.0,8,Medium
+Kodagu,179.08,76,52.59,33.53,20,Medium
+Ramanagara,118.68,83,11.69,30.91,16,Medium
+Kolar,161.63,69,3.45,20.12,7,Low
+Tumakuru,237.21,77,57.91,27.21,13,High
+Bengaluru Urban,132.61,50,21.52,19.37,23,Medium
+Haveri,203.18,66,47.1,30.95,3,Medium
+Bidar,31.62,66,59.89,19.39,0,Low
+Belagavi,200.55,34,34.88,25.86,15,Medium
+Dharwad,189.73,91,39.48,28.7,3,Medium
+Bengaluru Urban,112.68,39,27.79,40.33,8,Low
+Udupi,204.51,46,18.56,37.22,7,Low
+Bagalkot,98.35,95,49.07,41.52,20,Medium
+Yadgir,190.87,85,36.79,34.46,16,High
+Chikkamagaluru,222.77,58,44.93,25.04,11,Medium
+Hassan,129.79,93,55.39,33.41,25,High
+Kalaburagi,34.21,52,39.78,21.52,13,Medium
+Ramanagara,253.68,38,32.29,21.88,16,Medium
+Bengaluru Rural,216.1,67,11.22,29.21,20,Medium
+Bidar,141.71,82,20.88,38.78,11,Medium
+Haveri,37.15,35,1.39,30.71,15,Low
+Mysuru,220.47,75,55.89,23.41,2,Medium
+Chitradurga,227.91,66,1.23,19.28,25,Medium
+Shivamogga,129.03,37,55.16,27.65,21,Medium
+Davanagere,242.1,64,43.55,35.97,8,Medium
+Kalaburagi,39.16,36,53.5,29.18,6,Medium
+Bagalkot,3.26,48,38.6,40.11,0,Low
+Kalaburagi,22.79,74,53.85,36.08,0,Low
+Kodagu,160.55,70,10.94,28.41,4,Low
+Uttara Kannada,72.17,54,52.68,25.2,16,Medium
+Gadag,57.55,92,48.63,22.1,10,Medium
+Bagalkot,63.23,39,51.9,39.99,20,Medium
+Davanagere,176.75,49,4.81,27.95,19,Medium
+Bengaluru Rural,123.22,83,5.32,36.83,7,Medium
+Ballari,77.09,35,27.36,40.46,7,Low
+Tumakuru,105.26,75,42.38,24.22,13,Medium
+Mangaluru,16.35,64,18.34,37.91,1,Low
+Raichur,6.0,38,35.48,35.69,24,Medium
+Shivamogga,180.9,89,8.13,27.6,12,Medium
+Chikkaballapur,11.07,56,48.82,37.83,25,Medium
+Hassan,287.27,38,41.02,28.76,14,High
+Mandya,101.78,50,13.93,24.42,17,Low
+Bengaluru Urban,125.78,43,49.11,39.42,24,Medium
+Mangaluru,30.22,30,9.83,24.27,9,Low
+Shivamogga,318.1,97,52.37,25.25,13,High
+Kalaburagi,52.98,61,21.0,34.96,11,Low
+Mysuru,70.84,80,32.58,27.01,2,Low
+Ramanagara,91.92,46,39.87,36.54,12,Medium
+Koppal,205.52,99,52.3,35.37,6,Medium
+Mangaluru,70.95,62,0.46,37.73,6,Low
+Kodagu,47.62,73,59.49,33.31,0,Low
+Yadgir,90.23,51,13.78,33.4,24,Low
+Ballari,9.44,100,5.18,18.23,3,Low
+Udupi,157.16,43,35.74,39.95,22,Medium
+Uttara Kannada,245.11,48,3.55,31.87,19,Medium
+Mangaluru,14.3,73,21.99,41.01,23,Medium
+Udupi,330.3,88,58.0,23.93,18,High
+Kalaburagi,131.28,31,41.74,27.61,10,Medium
+Vijayapura,138.65,52,56.5,30.93,12,Medium
+Chikkamagaluru,257.19,58,3.89,34.3,2,Low
+Chikkaballapur,160.5,91,40.09,30.95,17,High
+Hassan,287.79,68,3.99,35.79,17,Medium
+Belagavi,320.84,98,38.67,37.77,8,High
+Ramanagara,169.2,79,18.73,36.91,13,Medium
+Chikkamagaluru,3.91,80,49.1,31.94,7,Medium
+Dharwad,186.0,85,59.25,40.21,1,Medium
+Tumakuru,179.68,98,22.54,24.66,15,Medium
+Davanagere,48.54,99,43.96,22.44,17,Medium
+Ballari,31.98,34,55.33,32.82,9,Medium
+Ballari,29.04,83,35.93,42.0,21,Medium
+Shivamogga,91.52,36,49.84,25.59,7,Medium
+Gadag,347.64,74,5.09,20.91,3,Low
+Chamarajanagar,53.18,37,13.85,41.02,13,Low
+Hassan,20.82,91,23.62,36.65,7,Medium
+Vijayapura,149.23,100,12.08,35.78,3,Low
+Yadgir,303.55,92,38.4,29.86,7,High
+Bagalkot,337.35,33,42.08,36.49,6,Medium
+Kolar,68.93,38,45.71,34.15,12,Medium
+Chamarajanagar,114.14,89,25.27,28.85,19,Medium
+Mangaluru,67.14,71,11.37,28.75,8,Low
+Yadgir,341.19,68,33.44,39.0,24,Medium
+Bengaluru Urban,33.35,89,32.24,33.05,14,Medium
+Bengaluru Rural,91.99,80,47.37,28.44,0,Low
+Belagavi,180.37,64,5.54,40.14,16,Medium
+Gadag,106.9,85,39.13,20.59,19,Medium
+Yadgir,289.51,67,52.97,34.0,24,High
+Bidar,164.56,54,46.66,24.2,12,Medium
+Kodagu,234.53,82,22.89,36.11,13,High
+Mandya,256.57,97,45.03,28.55,13,High
+Mysuru,244.1,41,3.39,27.98,7,Medium
+Bengaluru Urban,115.54,60,48.24,19.02,10,Medium
+Chamarajanagar,285.5,99,46.98,32.78,17,High
+Gadag,96.21,88,17.39,26.16,23,Medium
+Dharwad,32.57,41,11.15,41.47,21,Low
+Udupi,82.7,75,44.07,27.98,9,Medium
+Bengaluru Urban,193.51,83,59.96,32.92,5,Medium
+Kodagu,94.52,43,56.39,40.09,13,Medium
+Uttara Kannada,325.94,83,58.35,21.42,24,High
+Davanagere,26.69,56,5.59,19.0,8,Low
+Bengaluru Urban,221.27,100,12.06,26.13,25,Medium
+Chikkaballapur,175.37,38,19.31,23.15,15,Medium
+Mandya,131.06,91,30.76,40.53,1,Medium
+Bengaluru Rural,202.65,49,25.1,25.96,9,Medium
+Chikkaballapur,298.6,59,23.2,27.98,14,Medium
+Yadgir,78.52,96,30.06,31.84,17,Medium
+Vijayapura,18.9,67,19.83,24.22,1,Low
+Chamarajanagar,43.0,69,18.09,22.05,9,Low
+Davanagere,59.85,58,45.32,31.25,5,Low
+Udupi,18.47,68,22.52,38.21,23,Medium
+Mysuru,177.29,74,37.22,40.66,14,Medium
+Kodagu,122.98,40,25.12,19.52,23,Medium
+Hassan,170.93,77,20.99,35.27,3,Low
+Dharwad,270.88,57,51.11,37.58,8,Medium
+Kodagu,349.34,35,25.72,30.73,9,Medium
+Kodagu,160.12,53,2.81,26.31,10,Low
+Uttara Kannada,305.52,100,54.62,32.78,20,High
+Shivamogga,218.26,89,35.32,27.27,15,High
+Raichur,337.69,79,43.19,35.81,25,High
+Shivamogga,68.23,95,41.64,24.53,13,Medium
+Kolar,263.52,98,25.37,19.9,6,Medium
+Vijayanagara,294.53,36,7.23,36.63,18,Medium
+Chikkaballapur,286.46,32,19.87,23.72,14,Medium
+Chitradurga,293.11,51,19.78,18.98,4,Low
+Uttara Kannada,337.75,81,26.39,36.84,8,Medium
+Kolar,23.02,85,22.56,40.82,9,Medium
+Tumakuru,124.61,86,16.34,40.1,7,Medium
+Mandya,65.59,98,41.2,34.58,1,Medium
+Bengaluru Urban,31.21,35,11.38,33.75,12,Low
+Gadag,107.33,50,57.56,38.73,11,Medium
+Haveri,16.62,91,48.44,41.02,5,Medium
+Chitradurga,250.87,100,9.09,28.24,12,Medium
+Dharwad,11.15,93,37.61,32.1,24,Medium
+Raichur,165.83,33,14.15,38.52,4,Low
+Dharwad,256.88,33,50.16,26.83,21,High
+Ramanagara,64.34,48,34.86,24.47,5,Low
+Kalaburagi,66.53,90,35.88,25.01,16,Medium
+Koppal,253.27,48,50.46,37.69,12,Medium
+Bagalkot,301.26,91,28.97,41.25,15,High
+Hassan,143.86,38,48.51,41.71,8,Medium
+Davanagere,12.12,79,52.2,38.56,9,Medium
+Ramanagara,119.01,47,51.26,23.3,12,Medium
+Chitradurga,260.16,48,45.22,32.66,1,Medium
+Raichur,249.09,67,57.01,19.65,8,Medium
+Kolar,285.72,98,10.75,41.81,6,Medium
+Ramanagara,231.71,72,17.24,36.14,12,Medium
+Mangaluru,116.28,99,16.14,18.22,9,Low
+Chamarajanagar,77.27,55,32.81,24.98,22,Medium
+Dharwad,197.03,58,47.3,41.98,16,Medium
+Bengaluru Rural,93.41,94,12.88,37.18,1,Low
+Yadgir,180.22,100,43.41,38.33,22,High
+Bidar,104.82,76,12.76,29.73,5,Low
+Dharwad,159.67,95,35.35,41.95,9,Medium
+Mangaluru,119.11,41,59.8,25.31,21,Medium
+Haveri,64.84,93,20.24,24.99,25,Medium
+Chitradurga,239.09,86,46.62,38.74,21,High
+Bidar,287.26,98,48.51,40.23,7,High
+Koppal,282.09,30,36.68,21.67,22,High
+Dharwad,19.75,81,54.0,22.57,0,Medium
+Ramanagara,328.57,49,56.61,29.05,9,Medium
+Vijayanagara,22.3,61,33.18,39.4,0,Low
+Udupi,19.92,69,23.64,36.82,21,Medium
+Davanagere,216.46,68,0.29,29.73,12,Low
+Ramanagara,109.5,94,31.26,26.25,9,Medium
+Chitradurga,37.01,80,8.58,29.15,8,Low
+Shivamogga,14.49,44,41.51,37.0,11,Medium
+Mysuru,113.42,94,27.81,26.0,23,Medium
+Koppal,153.44,92,36.09,18.1,24,High
+Shivamogga,287.53,32,21.82,24.93,15,Medium
+Chikkamagaluru,106.09,68,10.33,22.99,23,Low
+Gadag,307.9,85,46.28,23.64,24,High
+Koppal,155.16,86,27.7,38.02,5,Medium
+Hassan,261.05,55,58.34,31.7,21,High
+Kodagu,253.58,68,47.66,31.22,16,High
+Ballari,160.2,32,49.88,32.56,11,Medium
+Kolar,101.43,91,34.68,22.24,20,Medium
+Bengaluru Urban,6.99,54,48.41,41.33,19,Medium
+Chikkamagaluru,24.21,79,55.1,18.27,14,Medium
+Hassan,228.18,50,52.62,41.26,5,Medium
+Kodagu,170.65,41,9.66,27.4,4,Low
+Mysuru,248.78,41,37.97,35.03,8,Medium
+Dharwad,42.95,77,2.83,29.06,15,Low
+Ramanagara,19.5,77,10.72,26.6,8,Low
+Kodagu,124.96,84,36.16,31.86,19,High
+Raichur,256.03,91,48.76,28.33,4,Medium
+Kodagu,159.66,36,42.32,35.71,1,Medium
+Hassan,63.65,65,35.11,31.38,6,Medium
+Chitradurga,270.84,94,10.86,35.7,18,Medium
+Chitradurga,245.28,54,51.68,35.21,1,Medium
+Chikkaballapur,147.48,65,14.6,22.45,17,Medium
+Kolar,192.17,100,11.73,23.82,21,Medium
+Ramanagara,272.91,37,41.0,23.04,11,Medium
+Koppal,258.56,98,19.73,23.84,14,Medium
+Uttara Kannada,119.24,66,48.3,34.67,11,Medium
+Chikkaballapur,280.75,92,16.8,32.09,18,Medium
+Raichur,263.63,36,34.91,25.41,17,Medium
+Yadgir,239.84,86,36.78,32.76,19,High
+Udupi,233.67,79,59.0,23.77,8,Medium
+Mysuru,8.86,89,36.86,33.99,5,Medium
+Uttara Kannada,337.51,87,39.21,39.81,25,High
+Ramanagara,12.93,64,1.88,19.13,3,Low
+Vijayapura,265.4,61,37.14,32.6,14,High
+Yadgir,136.13,58,26.53,25.07,19,Medium
+Uttara Kannada,223.58,95,43.69,36.34,18,High
+Tumakuru,111.32,93,59.33,23.03,9,Medium
+Davanagere,240.59,33,58.28,26.75,7,Medium
+Bengaluru Urban,67.35,43,1.38,39.88,5,Low
+Chamarajanagar,204.14,93,26.09,28.06,12,Medium
+Bidar,332.29,58,14.94,32.64,21,Medium
+Davanagere,75.16,71,24.79,41.33,8,Low
+Mandya,109.68,78,45.48,24.74,21,Medium
+Davanagere,118.86,31,50.68,28.32,23,Medium
+Chikkamagaluru,38.7,36,46.37,28.78,3,Low
+Dharwad,82.01,34,11.77,40.22,22,Low
+Kalaburagi,300.78,73,58.17,36.58,25,High
+Gadag,255.72,61,52.52,41.67,16,High
+Mandya,111.75,39,56.83,33.32,1,Low
+Bengaluru Urban,190.16,97,42.67,30.14,18,High
+Chamarajanagar,37.32,57,6.33,21.08,14,Low
+Bidar,248.03,40,39.74,36.38,17,High
+Ballari,114.13,64,9.21,20.46,24,Low
+Mangaluru,193.25,51,20.26,36.54,6,Medium
+Uttara Kannada,192.0,48,26.9,33.0,19,Medium
+Belagavi,282.08,81,3.32,40.51,24,Medium
+Gadag,229.99,40,1.58,40.71,19,Medium
+Kalaburagi,276.58,33,56.62,18.92,21,High
+Haveri,336.49,42,54.82,18.41,8,Medium
+Haveri,28.38,55,28.79,39.41,15,Medium
+Raichur,54.22,74,10.7,26.0,13,Low
+Vijayapura,56.16,77,16.8,27.16,15,Low
+Chikkaballapur,51.32,97,25.38,30.48,1,Low
+Mandya,136.07,30,15.32,34.71,20,Medium
+Kalaburagi,54.09,36,34.76,26.1,14,Medium
+Belagavi,198.78,33,52.04,21.81,4,Medium
+Ramanagara,238.56,66,50.52,35.84,11,Medium
+Shivamogga,33.94,34,45.51,34.8,4,Low
+Belagavi,168.02,34,10.21,41.39,22,Medium
+Shivamogga,244.8,83,38.68,25.55,0,Medium
+Raichur,149.35,38,41.33,33.28,0,Medium
+Dharwad,257.8,46,18.95,22.18,12,Medium
+Shivamogga,258.81,97,13.22,24.03,18,Medium
+Chikkaballapur,245.05,31,51.95,29.7,8,Medium
+Ballari,34.54,43,38.79,39.47,6,Medium
+Gadag,88.64,76,37.98,22.76,19,Medium
+Chikkaballapur,235.16,84,36.08,39.39,14,High
+Haveri,284.09,34,0.48,36.98,20,Medium
+Chikkamagaluru,204.47,74,55.8,18.21,17,Medium
+Chamarajanagar,297.59,62,18.36,24.05,15,Medium
+Vijayapura,213.02,42,54.64,36.69,16,Medium
+Ramanagara,150.93,69,23.19,38.73,20,Medium
+Bengaluru Rural,317.98,64,36.69,39.35,3,Medium
+Bengaluru Rural,305.29,46,46.64,40.82,2,Medium
+Kolar,284.54,90,23.1,26.08,21,High
+Chikkamagaluru,91.57,87,4.08,23.31,8,Low
+Vijayanagara,10.02,71,0.66,24.39,4,Low
+Kolar,72.52,46,35.23,41.73,20,Medium
+Mangaluru,93.57,97,27.54,33.45,16,Medium
+Davanagere,273.82,77,24.08,33.01,6,Medium
+Vijayanagara,39.92,79,20.89,37.38,8,Low
+Chitradurga,40.03,77,7.1,39.44,4,Low
+Uttara Kannada,210.37,80,55.76,20.37,2,Medium
+Bidar,196.88,69,47.99,36.3,12,Medium
+Tumakuru,95.22,77,41.82,29.61,5,Low
+Bengaluru Urban,148.62,36,54.34,28.8,8,Medium
+Bidar,265.49,73,59.58,40.52,19,High
+Bengaluru Urban,30.85,76,56.41,20.15,8,Medium
+Mangaluru,66.39,94,17.19,34.15,13,Medium
+Chitradurga,84.34,49,59.66,31.52,9,Medium
+Mangaluru,179.54,33,13.75,41.03,18,Medium
+Mangaluru,228.8,47,39.44,22.05,21,High
+Davanagere,279.78,45,5.12,38.47,11,Medium
+Haveri,326.77,32,17.1,37.67,4,Low
+Kalaburagi,247.36,93,54.01,35.16,24,High
+Uttara Kannada,181.26,59,58.14,33.19,11,Medium
+Bengaluru Urban,348.01,72,45.37,19.67,23,High
+Shivamogga,97.58,59,25.0,25.97,19,Medium
+Ramanagara,321.45,36,7.17,36.27,19,Medium
+Udupi,284.46,57,55.63,37.27,14,High
+Ramanagara,202.06,44,40.42,21.04,23,Medium
+Bengaluru Urban,227.77,97,38.03,23.03,23,High
+Koppal,225.81,84,6.24,24.44,12,Medium
+Mangaluru,319.03,92,45.09,26.79,11,High
+Bengaluru Rural,189.23,91,47.56,23.97,23,High
+Bagalkot,172.73,73,44.35,40.98,6,Medium
+Belagavi,188.98,51,50.13,22.79,15,Medium
+Mangaluru,195.76,95,48.91,28.66,16,High
+Mandya,312.53,82,11.76,37.28,21,Medium
+Vijayanagara,335.37,82,17.56,30.04,1,Medium
+Hassan,158.5,57,55.79,19.71,11,Medium
+Mandya,119.59,41,58.11,18.74,5,Low
+Kalaburagi,10.23,87,16.01,25.74,14,Medium
+Tumakuru,190.82,64,26.26,36.99,0,Low
+Kolar,110.58,85,36.56,22.11,3,Medium
+Bagalkot,321.23,100,20.8,27.45,8,Medium
+Chikkaballapur,330.92,87,33.94,35.66,19,High
+Hassan,275.43,33,31.93,39.34,25,Medium
+Ramanagara,36.08,69,53.0,20.84,5,Low
+Bengaluru Urban,69.35,32,39.37,37.87,11,Medium
+Mysuru,241.46,30,31.78,25.07,10,Medium
+Chitradurga,165.09,41,2.99,40.22,17,Medium
+Gadag,308.91,36,16.35,21.95,0,Low
+Haveri,88.38,37,28.83,22.32,12,Low
+Uttara Kannada,157.23,91,23.91,33.36,0,Medium
+Belagavi,222.01,68,55.69,41.83,17,High
+Chikkamagaluru,181.41,37,36.85,22.15,25,Medium
+Bengaluru Urban,126.74,94,7.52,19.5,1,Low
+Vijayanagara,130.88,93,19.16,31.99,10,Medium
+Chikkaballapur,247.06,62,17.73,22.72,23,Medium
+Bagalkot,333.08,82,37.57,19.66,8,High
+Gadag,104.34,59,53.21,24.66,17,Medium
+Kolar,42.97,34,47.25,33.45,7,Medium
+Ballari,23.57,77,28.67,38.97,1,Low
+Uttara Kannada,141.72,73,0.43,21.83,15,Medium
+Ballari,221.88,55,19.54,25.7,5,Low
+Tumakuru,90.2,98,36.06,19.82,24,Medium
+Vijayapura,286.54,60,51.8,29.13,14,High
+Bidar,37.65,82,31.81,19.15,0,Low
+Chikkaballapur,276.71,33,46.85,36.62,10,Medium
+Gadag,157.93,69,51.33,29.1,20,Medium
+Kolar,309.32,84,40.02,23.92,16,High
+Vijayanagara,342.01,41,9.84,39.26,25,Medium
+Chikkaballapur,121.11,82,10.7,30.76,8,Medium
+Chamarajanagar,201.58,74,13.3,32.15,17,Medium
+Shivamogga,270.66,52,51.0,36.08,8,Medium
+Koppal,170.9,91,52.63,31.62,1,Medium
+Udupi,67.19,73,40.5,38.02,23,Medium
+Uttara Kannada,314.68,81,2.09,40.19,3,Medium
+Mysuru,285.27,35,39.73,23.38,19,High
+Udupi,8.2,50,24.17,41.45,5,Low
+Kodagu,26.73,51,24.16,29.63,8,Low
+Kalaburagi,153.46,74,40.95,24.9,5,Medium
+Vijayapura,28.37,83,51.66,38.08,22,Medium
+Bengaluru Urban,93.26,40,17.08,30.03,14,Low
+Vijayapura,83.47,76,10.96,41.91,2,Low
+Vijayanagara,157.4,66,23.4,39.23,14,Medium
+Bengaluru Rural,122.69,48,58.52,26.42,0,Medium
+Mangaluru,77.89,63,48.19,24.87,24,Medium
+Bengaluru Urban,135.23,39,7.19,27.98,16,Medium
+Bidar,19.34,46,49.64,35.27,0,Low
+Yadgir,155.52,30,25.07,32.84,8,Medium
+Mangaluru,325.12,42,1.15,29.71,3,Low
+Mysuru,330.83,41,41.19,30.34,7,Medium
+Chamarajanagar,329.34,61,17.6,27.97,21,Medium
+Raichur,196.45,43,37.16,26.49,12,Medium
+Chamarajanagar,52.58,68,16.67,29.13,3,Low
+Chikkaballapur,345.92,52,35.29,21.47,9,Medium
+Uttara Kannada,208.55,68,35.13,21.2,1,Medium
+Haveri,120.41,32,26.8,28.69,18,Medium
+Gadag,43.32,99,8.73,40.95,22,Medium
+Mangaluru,31.23,82,40.74,24.01,7,Medium
+Raichur,54.4,74,11.03,40.48,0,Low
+Mysuru,348.87,41,0.0,30.45,19,Medium
+Udupi,50.64,36,9.0,34.88,6,Low
+Ramanagara,62.03,65,30.0,22.36,20,Medium
+Mysuru,49.0,38,38.97,26.76,17,Medium
+Tumakuru,83.08,33,32.99,33.72,14,Medium
+Bagalkot,285.98,69,17.94,40.91,8,Medium
+Vijayanagara,275.27,44,13.65,20.75,3,Low
+Koppal,163.04,35,29.0,24.27,5,Low
+Haveri,143.22,32,8.2,36.72,12,Low
+Udupi,147.17,80,10.96,23.69,8,Low
+Ballari,36.57,69,49.62,41.2,14,Medium
+Bengaluru Rural,125.25,66,5.45,18.6,17,Medium
+Hassan,344.88,50,24.16,41.1,5,Medium
+Ramanagara,127.42,50,58.52,19.47,24,Medium
+Bengaluru Urban,140.07,73,38.35,30.17,17,Medium
+Shivamogga,150.69,38,0.45,19.16,8,Low
+Udupi,137.38,91,18.98,41.45,21,Medium
+Vijayanagara,180.64,30,56.42,34.13,10,Medium
+Chikkaballapur,174.7,55,4.71,31.28,21,Medium
+Koppal,327.1,94,35.16,37.63,2,Medium
+Udupi,296.72,94,45.26,37.21,5,Medium
+Kalaburagi,55.9,56,19.68,27.71,0,Low
+Chitradurga,290.6,86,28.88,19.14,2,Medium
+Kalaburagi,190.92,98,47.39,38.94,14,High
+Bidar,294.24,54,20.55,27.26,12,Medium
+Mangaluru,6.73,81,9.54,34.17,1,Low
+Haveri,137.03,76,12.89,30.99,5,Low
+Davanagere,105.69,92,25.78,23.32,0,Low
+Kalaburagi,267.05,53,28.82,20.48,19,Medium
+Shivamogga,244.6,53,31.34,33.21,21,Medium
+Tumakuru,119.37,36,55.66,41.25,6,Medium
+Udupi,263.18,99,42.01,38.49,13,High
+Dharwad,339.12,78,29.5,29.37,13,Medium
+Chitradurga,145.14,40,44.74,26.29,3,Medium
+Mangaluru,38.82,37,11.04,41.55,4,Low
+Gadag,17.62,40,17.65,21.01,25,Low
+Udupi,4.36,52,28.29,38.49,7,Low
+Davanagere,234.25,65,33.33,27.52,16,Medium
+Dharwad,274.47,99,37.26,35.03,22,High
+Chikkamagaluru,119.36,66,37.67,24.7,6,Medium
+Tumakuru,318.21,57,52.85,30.09,21,High
+Bengaluru Urban,230.39,100,23.29,26.5,2,Medium
+Hassan,23.1,87,57.96,22.17,17,Medium
+Mandya,48.03,59,15.18,36.34,2,Low
+Kodagu,171.33,62,29.52,21.01,25,Medium
+Ballari,56.92,60,23.14,27.89,14,Medium
+Bengaluru Urban,295.96,42,18.22,30.42,3,Low
+Gadag,190.04,63,22.29,38.01,18,Medium
+Gadag,108.41,78,24.09,38.75,5,Low
+Mandya,243.36,57,9.97,24.15,12,Medium
+Shivamogga,200.18,58,17.92,32.37,25,Medium
+Kodagu,132.15,70,23.13,32.88,20,Medium
+Mandya,152.49,43,13.76,25.4,22,Medium
+Udupi,59.29,30,44.21,28.75,4,Low
+Tumakuru,183.43,31,26.26,41.09,5,Low
+Mangaluru,43.07,58,42.15,38.87,5,Low
+Chamarajanagar,284.87,39,23.95,19.92,0,Medium
+Kalaburagi,138.83,75,35.17,32.22,1,Medium
+Chikkaballapur,134.46,61,11.52,33.67,23,Medium
+Davanagere,146.56,61,36.29,31.38,2,Medium
+Koppal,26.86,48,36.32,41.33,0,Low
+Kolar,293.37,48,36.04,27.31,0,Medium
+Vijayapura,127.68,50,3.28,38.86,20,Medium
+Davanagere,75.34,63,20.04,19.86,20,Medium
+Bagalkot,133.16,53,7.34,27.95,11,Low
+Ballari,261.88,77,50.71,27.86,8,Medium
+Koppal,238.64,67,2.46,20.38,14,Medium
+Belagavi,254.96,85,36.48,27.5,12,High
+Mangaluru,61.5,35,30.14,20.56,9,Low
+Bagalkot,110.44,52,23.4,41.68,8,Low
+Kalaburagi,175.46,57,27.42,19.49,23,Medium
+Vijayanagara,205.68,48,33.02,40.7,14,Medium
+Chitradurga,128.73,78,45.16,37.05,1,Medium
+Chitradurga,219.14,94,23.44,33.04,16,Medium
+Bagalkot,73.72,37,56.11,41.34,3,Low
+Bagalkot,215.73,79,3.65,25.47,19,Medium
+Chitradurga,182.25,86,22.06,41.04,19,Medium
+Vijayanagara,178.88,43,16.01,21.26,22,Medium
+Yadgir,295.33,41,4.75,34.39,24,Medium
+Hassan,1.29,39,39.3,28.76,2,Low
+Mangaluru,272.19,54,12.98,30.48,12,Medium
+Mangaluru,299.36,60,24.16,18.14,7,Medium
+Hassan,126.89,30,10.84,41.05,11,Low
+Bengaluru Urban,210.56,86,34.11,19.66,2,Medium
+Davanagere,28.92,47,10.81,20.28,22,Low
+Vijayanagara,147.9,35,4.25,26.78,9,Low
+Belagavi,127.96,72,42.11,37.63,23,Medium
+Udupi,236.28,97,59.45,30.1,20,High
+Belagavi,205.54,96,7.83,39.7,1,Low
+Uttara Kannada,278.04,90,42.76,19.13,25,High
+Chitradurga,169.97,37,20.68,38.92,22,Medium
+Bagalkot,189.37,70,27.73,36.91,13,Medium
+Vijayanagara,337.62,64,5.31,31.69,5,Low
+Yadgir,4.52,100,11.9,20.81,18,Medium
+Bengaluru Rural,109.64,86,37.66,27.56,22,Medium
+Chikkamagaluru,295.78,84,26.16,37.57,7,Medium
+Ballari,219.47,100,38.59,20.66,3,Medium
+Haveri,307.38,50,35.5,18.88,19,High
+Kodagu,193.18,94,46.4,24.1,24,High
+Koppal,325.53,36,42.13,22.1,17,High
+Mysuru,217.76,57,42.27,40.21,12,Medium
+Koppal,268.2,92,42.4,19.17,19,High
+Hassan,282.54,58,4.93,23.9,6,Medium
+Dharwad,298.01,54,9.18,27.73,13,Medium
+Bengaluru Urban,342.8,90,59.73,23.18,1,Medium
+Bengaluru Rural,120.59,73,14.61,22.0,21,Medium
+Ballari,225.3,35,37.12,20.72,23,High
+Vijayapura,219.15,95,59.79,28.21,23,High
+Raichur,240.7,89,40.9,39.14,18,High
+Kalaburagi,206.19,36,12.04,30.16,8,Low
+Kolar,39.55,73,56.44,28.93,10,Medium
+Gadag,159.6,85,35.9,22.12,19,High
+Mangaluru,315.06,75,46.32,37.47,15,High
+Mangaluru,260.82,86,52.63,38.44,8,High
+Bengaluru Urban,328.79,49,27.26,37.12,15,Medium
+Bidar,32.85,99,4.08,38.31,0,Low
+Yadgir,242.02,43,18.21,21.24,0,Low
+Vijayapura,193.64,68,50.67,33.62,2,Medium
+Gadag,273.29,92,31.25,18.09,14,High
+Chikkamagaluru,247.5,84,1.46,25.02,17,Medium
+Yadgir,49.16,65,51.2,22.98,20,Medium
+Chikkaballapur,218.27,88,12.08,38.05,5,Low
+Chikkaballapur,324.18,69,7.2,33.79,15,Medium
+Bengaluru Rural,239.15,89,15.01,34.02,6,Medium
+Kalaburagi,5.4,39,39.76,19.85,1,Low
+Bengaluru Rural,335.51,79,22.47,40.06,11,Medium
+Gadag,200.0,73,54.74,20.87,14,Medium
+Raichur,233.15,72,54.78,34.07,10,Medium
+Mysuru,249.54,38,36.27,18.24,15,High
+Kalaburagi,349.95,92,0.88,32.36,18,Medium
+Koppal,182.83,39,8.85,24.38,25,Medium
+Udupi,198.45,99,12.98,22.03,14,Medium
+Bengaluru Urban,331.52,49,49.5,29.14,12,Medium
+Chamarajanagar,94.44,44,55.72,39.57,3,Low
+Davanagere,214.91,97,43.32,36.85,1,Medium
+Bengaluru Urban,305.13,69,49.83,25.68,22,High
+Koppal,244.11,53,24.32,18.34,20,Medium
+Mangaluru,247.98,50,58.36,41.47,11,Medium
+Bengaluru Urban,88.85,80,40.41,41.36,1,Low
+Tumakuru,91.44,100,10.52,35.65,10,Low
+Ramanagara,228.51,59,43.99,29.0,17,High
+Chamarajanagar,108.0,100,37.82,32.89,3,Medium
+Shivamogga,213.68,62,7.11,34.68,16,Medium
+Mysuru,15.88,55,22.24,41.34,1,Low
+Udupi,180.2,52,34.76,38.4,7,Medium
+Kalaburagi,24.14,53,11.21,40.14,1,Low
+Bidar,192.39,43,28.52,35.45,13,Medium
+Vijayapura,190.26,90,37.88,20.12,3,Medium
+Mandya,69.73,41,23.8,32.03,1,Low
+Kolar,141.77,82,28.67,25.89,22,Medium
+Vijayapura,86.91,43,20.02,38.67,21,Medium
+Vijayanagara,207.52,70,16.65,21.24,21,Medium
+Vijayanagara,240.22,69,53.48,40.04,10,Medium
+Kalaburagi,99.86,70,7.7,19.53,10,Low
+Uttara Kannada,190.8,87,18.59,37.29,12,Medium
+Bagalkot,2.88,66,11.12,41.21,14,Low
+Mysuru,149.0,43,15.1,20.05,9,Low
+Dharwad,132.34,64,55.41,25.75,22,Medium
+Kalaburagi,316.32,90,7.84,24.96,19,Medium
+Tumakuru,273.13,84,2.73,39.34,3,Medium
+Belagavi,128.4,76,33.76,36.38,7,Medium
+Belagavi,186.13,81,59.26,35.53,18,High
+Vijayapura,83.01,42,28.87,23.2,16,Medium
+Kodagu,213.36,77,31.51,20.2,20,Medium
+Mysuru,248.47,78,4.55,31.39,7,Medium
+Chikkaballapur,288.21,97,26.56,41.49,19,High
+Mangaluru,48.43,86,55.95,41.69,19,Medium
+Dharwad,76.32,30,20.74,39.91,22,Medium
+Chikkaballapur,134.49,40,36.94,20.55,24,Medium
+Chikkaballapur,298.62,59,3.27,25.47,3,Low
+Kolar,86.54,77,43.09,31.59,22,Medium
+Udupi,315.07,73,51.82,33.76,14,High
+Mandya,42.6,39,56.05,18.67,17,Medium
+Mandya,309.17,42,21.63,41.67,22,Medium
+Haveri,115.77,90,19.13,30.23,14,Medium
+Haveri,72.56,91,39.84,20.27,21,Medium
+Ramanagara,49.81,42,50.97,20.5,6,Medium
+Raichur,137.59,55,17.07,36.21,11,Low
+Bengaluru Rural,85.47,30,57.17,40.67,3,Low
+Mangaluru,263.66,36,38.33,38.46,5,Medium
+Bidar,182.58,76,12.65,38.74,4,Low
+Bagalkot,248.61,69,1.35,18.61,1,Low
+Dharwad,237.07,79,44.42,22.75,16,High
+Ramanagara,166.03,45,17.25,36.03,25,Medium
+Shivamogga,204.14,81,15.12,40.13,21,Medium
+Haveri,238.71,65,35.03,27.48,23,High
+Yadgir,256.91,75,48.85,22.6,19,High
+Belagavi,275.98,51,55.17,27.51,1,Medium
+Chikkamagaluru,15.48,46,24.21,33.13,17,Medium
+Koppal,152.36,57,37.19,26.84,21,Medium
+Ballari,253.38,93,2.77,36.0,22,Medium
+Ramanagara,322.41,85,56.33,38.23,14,High
+Udupi,16.92,61,40.53,22.92,3,Low
+Udupi,292.51,85,50.27,34.92,18,High
+Bengaluru Urban,176.03,86,1.52,24.78,23,Medium
+Raichur,242.5,91,15.25,23.8,25,Medium
+Chikkamagaluru,100.64,87,10.37,18.1,9,Low
+Haveri,250.51,53,58.67,23.03,1,Medium
+Davanagere,87.25,70,30.43,25.49,23,Medium
+Vijayapura,107.9,71,45.68,35.04,8,Medium
+Chamarajanagar,335.01,57,49.14,40.48,19,High
+Udupi,217.41,53,46.58,26.41,4,Medium
+Chikkamagaluru,299.91,79,22.22,25.92,24,Medium
+Koppal,35.64,49,22.01,32.3,17,Medium
+Hassan,337.1,53,10.16,32.86,14,Medium
+Mysuru,232.58,33,49.38,39.85,9,Medium
+Kolar,48.81,65,27.68,30.93,16,Medium
+Yadgir,269.12,92,2.24,33.08,24,Medium
+Koppal,11.42,65,19.11,31.58,8,Low
+Kolar,166.4,56,25.97,32.68,24,Medium
+Koppal,122.39,49,33.27,23.88,8,Medium
+Shivamogga,92.15,72,2.95,18.86,18,Low
+Koppal,57.54,57,21.72,25.81,8,Low
+Mangaluru,321.97,44,35.07,38.64,23,High
+Kolar,145.5,56,10.21,37.98,6,Low
+Chamarajanagar,295.4,98,48.52,30.96,1,Medium
+Koppal,125.65,91,19.59,24.2,12,Medium
+Mandya,49.19,63,57.69,33.89,18,Medium
+Ballari,98.81,35,57.87,23.71,0,Low
+Chamarajanagar,62.14,92,50.24,29.56,11,Medium
+Haveri,305.81,42,16.38,23.01,15,Medium
+Bengaluru Rural,151.88,34,59.06,25.87,3,Medium
+Kalaburagi,168.28,78,20.03,39.64,17,Medium
+Yadgir,267.67,86,36.74,23.66,4,Medium
+Vijayanagara,263.09,87,2.86,37.11,16,Medium
+Chikkaballapur,275.88,63,53.7,31.88,22,High
+Davanagere,88.1,79,31.24,41.16,11,Low
+Mysuru,101.04,89,14.16,28.68,20,Medium
+Chikkaballapur,57.57,79,23.58,32.73,9,Low
+Kolar,113.7,33,43.19,24.67,0,Low
+Vijayanagara,25.35,59,35.05,37.06,13,Medium
+Hassan,270.25,50,3.15,22.9,12,Medium
+Dharwad,310.62,95,16.6,37.42,4,Medium
+Mangaluru,193.82,64,3.37,29.72,14,Medium
+Bengaluru Rural,65.57,81,10.23,35.9,21,Medium
+Shivamogga,270.41,79,10.11,39.08,20,Medium
+Vijayapura,131.87,55,40.36,30.29,8,Medium
+Belagavi,119.76,68,16.82,27.48,11,Low
+Udupi,210.78,58,44.03,38.55,25,Medium
+Gadag,133.63,84,20.11,30.07,14,Medium
+Mysuru,129.69,34,6.69,29.89,5,Low
+Chikkamagaluru,262.12,78,14.31,19.54,18,Medium
+Ramanagara,243.32,45,18.91,36.93,12,Medium
+Shivamogga,126.32,45,16.0,28.73,11,Low
+Kolar,333.23,79,19.96,35.26,25,Medium
+Raichur,6.66,33,49.89,33.85,19,Medium
+Kolar,95.94,65,26.57,29.74,1,Low
+Chamarajanagar,49.4,85,26.66,27.48,23,Medium
+Koppal,51.77,37,9.3,29.23,15,Low
+Davanagere,172.03,41,53.18,31.58,16,Medium
+Hassan,115.72,77,5.58,39.2,15,Low
+Dharwad,301.49,53,12.14,29.78,3,Low
+Kolar,258.21,58,51.83,33.19,18,High
+Mysuru,226.54,69,44.27,28.48,20,High
+Vijayapura,234.3,75,52.94,35.92,12,Medium
+Chikkamagaluru,246.51,60,43.85,41.81,12,Medium
+Kalaburagi,239.72,89,54.52,26.87,0,Medium
+Bengaluru Urban,145.64,91,35.01,36.34,1,Medium
+Bengaluru Urban,191.08,36,1.69,40.17,11,Low
+Chikkaballapur,28.95,41,48.88,41.82,16,Medium
+Belagavi,21.17,90,45.43,34.44,16,Medium
+Vijayapura,113.34,57,33.18,36.3,10,Low
+Chitradurga,87.19,38,20.26,31.36,4,Low
+Davanagere,52.35,43,42.9,39.03,20,Medium
+Yadgir,72.67,93,15.67,21.17,23,Medium
+Chamarajanagar,298.51,74,10.94,30.4,14,Medium
+Yadgir,61.69,99,27.5,26.54,12,Medium
+Uttara Kannada,79.0,79,20.19,26.46,23,Medium
+Kalaburagi,153.75,55,23.86,38.26,18,Medium
+Davanagere,314.23,57,35.7,33.38,6,Medium
+Shivamogga,55.64,47,53.85,20.33,6,Medium
+Ramanagara,216.17,41,49.9,23.81,8,Medium
+Udupi,146.06,37,42.87,33.01,1,Medium
+Haveri,300.09,89,15.88,23.67,16,Medium
+Yadgir,281.83,43,11.29,37.92,1,Low
+Bengaluru Rural,197.73,88,14.96,20.26,4,Low
+Koppal,163.41,87,25.14,41.16,13,Medium
+Tumakuru,62.65,44,26.92,35.37,11,Low
+Chamarajanagar,330.77,99,53.0,18.64,7,High
+Kodagu,319.6,53,58.07,34.46,20,High
+Yadgir,170.6,91,43.52,19.16,15,High
+Bengaluru Urban,105.45,50,16.47,27.34,12,Low
+Mangaluru,167.05,77,56.81,37.36,12,Medium
+Koppal,205.4,95,7.95,34.31,11,Medium
+Bengaluru Rural,274.34,81,4.88,19.75,22,Medium
+Chikkamagaluru,74.68,90,11.22,19.93,3,Low
+Kolar,43.36,66,44.38,31.12,22,Medium
+Dharwad,238.87,68,55.03,40.77,3,Medium
+Tumakuru,270.85,77,33.2,34.78,21,Medium
+Chikkaballapur,148.1,83,47.02,19.55,0,Medium
+Gadag,224.26,63,59.72,27.47,23,High
+Hassan,25.98,38,41.89,40.4,20,Medium
+Koppal,167.96,100,16.81,36.81,5,Low
+Chikkamagaluru,117.65,95,33.67,19.49,12,Medium
+Chamarajanagar,189.58,85,29.55,26.36,24,Medium
+Dharwad,200.33,77,23.01,29.07,18,Medium
+Bengaluru Urban,205.44,59,19.6,40.34,24,Medium
+Hassan,291.45,40,3.86,28.03,25,Medium
+Mangaluru,204.36,70,13.81,38.06,1,Low
+Gadag,235.0,48,17.57,24.24,12,Medium
+Chikkamagaluru,161.98,97,57.25,20.15,8,Medium
+Uttara Kannada,16.47,76,4.61,37.23,3,Low
+Bidar,264.1,80,15.01,26.29,2,Low
+Bengaluru Urban,255.34,79,32.05,40.2,7,Medium
+Dharwad,297.29,91,4.76,40.11,11,Medium
+Gadag,317.67,58,6.19,26.91,2,Low
+Chikkamagaluru,169.02,83,53.42,23.92,20,High
+Davanagere,235.98,51,15.51,28.02,22,Medium
+Shivamogga,304.12,44,38.07,30.83,20,High
+Bagalkot,30.33,63,36.95,18.18,6,Medium
+Vijayanagara,204.87,90,14.78,28.06,18,Medium
+Udupi,79.09,52,11.83,38.48,25,Low
+Uttara Kannada,207.56,64,42.93,23.05,24,Medium
+Hassan,18.49,46,11.44,23.08,6,Low
+Bagalkot,129.98,45,55.66,36.92,4,Medium
+Chikkamagaluru,279.35,73,14.5,23.3,23,Medium
+Chikkamagaluru,256.09,56,57.15,19.64,17,High
+Yadgir,216.28,72,32.9,26.15,9,Medium
+Uttara Kannada,21.08,31,46.22,28.8,16,Medium
+Dharwad,131.12,91,39.96,22.82,19,High
+Kodagu,250.39,61,0.64,38.89,9,Medium
+Mandya,99.4,58,58.24,26.07,1,Low
+Hassan,290.29,35,11.08,31.41,5,Low
+Yadgir,272.95,98,26.31,28.18,19,High
+Vijayapura,314.02,39,19.36,34.79,7,Medium
+Mandya,49.96,66,32.95,24.84,24,Medium
+Uttara Kannada,313.36,44,4.26,36.05,25,Medium
+Dharwad,249.29,52,2.46,33.98,14,Medium
+Chamarajanagar,308.08,51,18.89,34.06,8,Medium
+Vijayanagara,11.42,69,9.35,36.39,14,Low
+Yadgir,40.11,64,0.96,38.24,17,Low
+Bagalkot,114.5,62,57.53,38.55,18,Medium
+Shivamogga,155.02,95,23.96,39.28,22,Medium
+Kodagu,114.87,91,14.41,35.27,10,Low
+Shivamogga,215.43,74,35.37,24.38,14,Medium
+Vijayanagara,306.3,86,42.65,24.99,12,High
+Bagalkot,22.12,90,1.5,35.32,9,Low
+Tumakuru,35.35,96,5.43,36.83,14,Medium
+Ramanagara,81.78,31,38.96,21.01,7,Medium
+Mysuru,186.15,88,39.67,41.87,13,High
+Mysuru,37.12,59,26.19,38.11,10,Low
+Chikkamagaluru,207.76,35,51.89,34.68,11,Medium
+Dharwad,287.08,72,31.65,31.28,16,Medium
+Mandya,4.09,59,35.96,25.1,7,Medium
+Uttara Kannada,277.67,74,35.91,35.05,23,High
+Davanagere,308.45,33,28.23,40.38,11,Medium
+Haveri,215.66,88,59.22,38.82,1,Medium
+Bagalkot,148.03,92,45.53,32.21,11,Medium
+Mangaluru,80.98,33,16.33,38.25,16,Low
+Shivamogga,321.87,56,41.37,18.06,4,Medium
+Chikkamagaluru,42.57,37,25.48,41.69,15,Medium
+Mangaluru,37.07,35,18.69,33.27,20,Low
+Davanagere,87.86,31,29.74,39.05,25,Medium
+Vijayanagara,138.97,96,48.15,39.89,14,High
+Bidar,249.44,84,45.55,28.22,2,Medium
+Hassan,56.85,31,36.14,20.92,20,Medium
+Dharwad,68.95,100,1.39,19.26,2,Low
+Yadgir,40.63,38,52.35,31.46,12,Medium
+Belagavi,341.59,80,17.33,32.46,21,Medium
+Uttara Kannada,276.17,60,6.45,22.62,17,Medium
+Davanagere,153.98,86,39.85,34.84,15,High
+Koppal,80.46,61,50.16,25.28,8,Medium
+Vijayapura,93.77,52,49.77,33.65,19,Medium
+Udupi,223.79,43,13.44,21.92,24,Medium
+Haveri,128.08,66,43.58,33.47,5,Medium
+Chamarajanagar,16.8,96,10.77,32.78,7,Low
+Mysuru,292.81,60,34.99,34.1,6,Medium
+Kolar,313.4,42,59.27,23.91,24,High
+Kalaburagi,189.03,82,38.75,35.82,7,Medium
+Ramanagara,6.91,88,0.42,36.81,2,Low
+Chitradurga,317.2,63,26.95,28.36,13,Medium
+Kalaburagi,49.15,63,25.25,19.82,14,Medium
+Bagalkot,265.82,97,12.92,39.62,25,Medium
+Dharwad,246.62,71,7.88,28.25,20,Medium
+Bidar,227.64,95,57.99,20.1,15,High
+Davanagere,258.88,82,9.08,35.91,14,Medium
+Yadgir,262.01,44,41.02,39.03,22,High
+Dharwad,150.02,85,9.85,33.22,4,Low
+Dharwad,205.77,74,0.86,38.07,21,Medium
+Ballari,332.5,35,30.44,41.82,15,Medium
+Raichur,222.34,42,53.79,25.01,25,High
+Vijayapura,302.67,45,27.15,26.01,10,Medium
+Kalaburagi,75.78,91,24.02,19.07,25,Medium
+Ballari,217.71,51,41.76,39.36,22,Medium
+Bengaluru Urban,174.85,97,5.03,22.46,9,Medium
+Hassan,277.55,85,1.16,35.89,25,Medium
+Vijayapura,273.85,75,40.04,41.71,1,Medium
+Vijayanagara,122.7,89,37.11,36.62,24,High
+Bidar,59.67,87,44.58,29.76,7,Medium
+Yadgir,314.28,73,45.64,37.53,15,High
+Haveri,237.55,48,55.35,40.78,7,Medium
+Haveri,253.82,79,25.74,24.18,0,Medium
+Vijayanagara,265.96,85,39.9,27.55,2,Medium
+Chamarajanagar,304.35,55,36.31,26.17,13,High
+Bagalkot,345.68,37,8.08,24.01,11,Medium
+Hassan,263.09,55,10.99,32.72,19,Medium
+Chitradurga,139.53,67,28.93,35.46,12,Medium
+Hassan,185.1,42,21.6,26.67,13,Medium
+Kalaburagi,127.35,47,31.82,37.64,23,Medium
+Tumakuru,89.09,77,4.89,39.95,22,Low
+Dharwad,91.64,62,24.06,18.8,22,Medium
+Raichur,80.09,33,30.2,23.54,7,Low
+Raichur,268.9,91,27.78,24.75,16,High
+Mandya,242.79,79,6.73,31.6,9,Medium
+Dharwad,275.82,38,12.23,35.62,21,Medium
+Ballari,282.05,88,33.55,19.54,4,Medium
+Yadgir,48.2,40,16.74,28.8,9,Low
+Bidar,203.51,98,23.47,39.0,3,Medium
+Koppal,88.32,48,7.65,19.06,25,Low
+Kodagu,344.33,80,9.55,38.1,24,Medium
+Kolar,345.95,47,58.67,25.47,7,Medium
+Mandya,287.85,38,12.55,22.81,24,Medium
+Bidar,316.65,42,13.46,36.67,14,Medium
+Shivamogga,231.69,33,57.83,19.64,18,High
+Shivamogga,23.87,36,50.33,20.21,1,Low
+Chikkamagaluru,25.92,71,57.63,25.41,12,Medium
+Tumakuru,344.23,51,4.52,36.94,23,Medium
+Bagalkot,254.64,91,27.26,27.66,9,Medium
+Bagalkot,211.64,53,47.5,20.19,13,Medium
+Shivamogga,24.06,76,59.9,28.45,13,Medium
+Bengaluru Urban,322.67,52,27.18,32.37,4,Medium
+Gadag,88.33,44,56.74,26.32,8,Medium
+Raichur,205.98,37,58.82,20.45,13,Medium
+Uttara Kannada,110.09,38,48.97,41.81,13,Medium
+Mandya,82.85,38,26.83,34.33,0,Low
+Kodagu,7.85,50,24.14,27.66,25,Medium
+Davanagere,7.15,80,57.13,37.85,14,Medium
+Mangaluru,200.04,59,48.62,35.37,7,Medium
+Bengaluru Rural,67.15,69,15.83,27.55,15,Low
+Uttara Kannada,343.1,65,8.26,21.43,19,Medium
+Davanagere,144.2,54,60.0,18.91,20,Medium
+Udupi,97.95,74,3.69,21.95,14,Low
+Raichur,165.56,39,3.7,27.7,17,Medium
+Kolar,48.35,38,31.67,21.21,10,Low
+Yadgir,52.49,31,37.48,24.09,9,Medium
+Vijayanagara,344.11,36,36.06,20.76,1,Medium
+Uttara Kannada,158.53,41,18.8,34.4,21,Medium
+Koppal,238.33,64,42.37,31.96,5,Medium
+Mangaluru,54.73,65,39.31,29.25,13,Medium
+Koppal,57.59,69,16.42,31.74,18,Low
+Ramanagara,315.81,72,10.79,26.32,4,Low
+Bengaluru Rural,155.75,56,45.77,26.17,0,Medium
+Chamarajanagar,204.09,81,0.55,20.09,5,Low
+Haveri,162.65,60,11.94,30.99,14,Medium
+Shivamogga,225.15,42,46.81,28.1,16,High
+Davanagere,187.49,32,41.94,40.17,25,Medium
+Vijayapura,145.66,75,24.7,39.63,4,Low
+Udupi,258.27,51,5.07,39.86,15,Medium
+Chikkaballapur,116.33,94,21.59,31.63,20,Medium
+Kalaburagi,236.82,51,49.08,30.15,3,Medium
+Tumakuru,170.33,43,22.26,39.13,18,Medium
+Shivamogga,173.01,96,14.27,39.57,13,Medium
+Dharwad,225.61,56,46.97,22.49,0,Medium
+Bengaluru Urban,147.81,33,52.51,20.36,6,Medium
+Udupi,345.24,95,47.37,35.5,14,High
+Shivamogga,97.65,31,14.07,36.15,10,Low
+Vijayanagara,174.22,91,51.75,20.81,7,Medium
+Haveri,147.61,44,26.92,35.59,2,Low
+Kodagu,267.63,47,6.38,41.53,5,Low
+Bidar,132.36,99,22.16,41.8,0,Medium
+Kolar,269.27,51,1.99,23.73,14,Medium
+Davanagere,344.9,47,43.48,32.31,12,Medium
+Kolar,160.72,44,44.68,19.29,10,Medium
+Shivamogga,233.75,83,0.7,40.52,23,Medium
+Koppal,195.65,88,58.37,30.54,9,Medium
+Raichur,285.77,54,28.04,24.39,2,Medium
+Mangaluru,161.04,87,10.47,28.78,18,Medium
+Davanagere,78.44,45,51.91,23.8,10,Medium
+Mangaluru,199.7,33,28.62,23.51,1,Low
+Uttara Kannada,300.68,45,26.75,26.04,5,Medium
+Ramanagara,143.58,51,24.62,29.67,1,Low
+Ramanagara,41.12,69,26.15,27.6,14,Medium
+Dharwad,33.73,40,29.65,32.13,23,Medium
+Chitradurga,91.12,35,54.35,28.88,25,Medium
+Chitradurga,221.26,35,58.43,21.0,14,High
+Bagalkot,139.15,93,39.88,35.64,18,High
+Dharwad,42.03,71,12.85,22.37,11,Low
+Kalaburagi,155.05,39,54.78,22.32,23,Medium
+Mandya,328.98,75,15.0,28.42,3,Low
+Yadgir,45.88,50,50.42,35.54,17,Medium
+Shivamogga,311.29,74,59.56,31.22,21,High
+Mandya,326.67,45,0.72,20.31,21,Medium
+Davanagere,20.1,37,9.55,24.9,4,Low
+Bengaluru Urban,176.91,81,53.58,29.9,6,Medium
+Bengaluru Urban,320.02,50,0.4,38.18,4,Low
+Kolar,296.66,57,17.46,38.07,7,Medium
+Shivamogga,147.4,59,48.11,23.07,10,Medium
+Mangaluru,98.13,33,12.32,33.72,18,Low
+Udupi,115.42,79,51.3,35.97,16,Medium
+Chamarajanagar,231.24,95,45.45,24.58,12,High
+Vijayapura,298.11,57,33.3,21.68,1,Medium
+Uttara Kannada,154.27,41,23.93,27.18,17,Medium
+Raichur,208.08,50,11.93,29.37,13,Medium
+Tumakuru,268.06,67,47.88,37.21,20,High
+Hassan,254.36,99,6.72,25.95,20,Medium
+Mangaluru,1.44,30,50.92,26.42,7,Medium
+Koppal,253.39,100,9.91,35.25,10,Medium
+Chamarajanagar,186.31,99,31.1,20.53,25,Medium
+Koppal,58.36,70,56.32,31.02,1,Low
+Yadgir,223.21,94,11.91,37.05,21,Medium
+Tumakuru,42.56,84,57.99,38.71,0,Medium
+Bengaluru Urban,271.7,95,57.91,22.51,9,High
+Chamarajanagar,108.41,36,58.25,24.07,5,Low
+Davanagere,245.02,55,8.57,30.93,25,Medium
+Raichur,114.35,52,4.36,22.97,14,Low
+Yadgir,167.54,79,18.05,21.63,13,Medium
+Chitradurga,175.69,45,53.06,40.28,0,Medium
+Raichur,218.21,62,10.95,33.01,25,Medium
+Koppal,201.81,78,57.62,22.61,25,Medium
+Shivamogga,282.79,75,42.73,28.94,22,High
+Gadag,320.96,34,56.27,23.94,22,High
+Udupi,146.95,36,47.12,18.93,8,Medium
+Uttara Kannada,153.35,34,22.08,30.9,11,Medium
+Bagalkot,223.22,58,9.49,33.88,2,Low
+Belagavi,102.79,48,19.48,35.44,2,Low
+Chikkamagaluru,146.52,69,54.77,29.76,18,Medium
+Mandya,263.79,70,40.15,30.33,10,Medium
+Kolar,316.34,90,51.85,37.58,12,High
+Kolar,46.47,90,35.64,32.9,6,Medium
+Kolar,327.32,35,18.3,30.22,15,Medium
+Bengaluru Rural,172.71,72,54.77,28.64,7,Medium
+Mangaluru,226.96,52,52.61,22.84,22,High
+Ballari,185.36,99,25.29,28.71,15,Medium
+Haveri,177.1,96,38.57,20.79,9,Medium
+Haveri,308.13,32,26.06,18.12,10,Medium
+Bidar,186.27,82,48.66,39.54,23,High
+Mangaluru,39.32,64,12.69,33.82,2,Low
+Gadag,217.67,47,47.4,40.37,19,Medium
+Kolar,212.49,57,10.62,35.09,10,Low
+Chikkaballapur,284.94,96,0.31,28.24,19,Medium
+Bagalkot,171.65,41,33.9,25.06,24,Medium
+Kalaburagi,96.2,74,6.55,18.24,23,Low
+Gadag,158.74,86,16.63,28.28,7,Medium
+Bengaluru Urban,272.31,43,58.22,23.56,15,High
+Gadag,347.83,73,31.14,29.75,8,Medium
+Shivamogga,284.68,89,33.51,33.4,7,Medium
+Gadag,272.36,81,8.62,38.14,2,Medium
+Kodagu,31.77,36,49.9,36.24,15,Medium
+Mandya,94.87,67,59.11,19.95,8,Medium
+Vijayapura,54.23,47,0.68,19.7,1,Low
+Davanagere,31.61,93,20.07,21.09,14,Medium
+Davanagere,271.44,50,35.77,41.81,9,Medium
+Shivamogga,202.77,100,26.79,28.28,14,Medium
+Koppal,155.75,40,52.86,35.66,8,Medium
+Bidar,64.18,90,29.86,30.33,22,Medium
+Bidar,305.34,92,35.47,26.97,4,Medium
+Vijayanagara,247.55,62,45.62,31.9,21,High
+Mandya,196.21,37,31.93,32.4,25,Medium
+Kolar,73.34,37,42.6,34.85,22,Medium
+Bagalkot,280.39,35,30.61,28.21,24,Medium
+Kalaburagi,28.04,54,5.6,19.38,19,Low
+Tumakuru,345.15,39,17.46,28.76,14,Medium
+Koppal,207.2,38,1.86,19.15,2,Low
+Mandya,251.26,46,14.4,39.16,0,Low
+Hassan,41.82,76,17.29,24.56,19,Low
+Bidar,41.8,44,38.01,28.95,16,Medium
+Haveri,61.12,53,19.76,31.54,18,Low
+Raichur,215.63,46,49.02,39.52,17,Medium
+Mandya,336.48,40,10.02,34.4,13,Medium
+Vijayapura,154.49,61,33.36,39.55,5,Low
+Chikkamagaluru,78.9,55,51.53,22.25,22,Medium
+Uttara Kannada,11.33,89,20.81,27.05,17,Medium
+Yadgir,218.44,55,26.12,31.82,12,Medium
+Chamarajanagar,140.74,46,58.12,37.0,13,Medium
+Ramanagara,325.93,81,40.95,26.3,24,High
+Koppal,257.6,75,0.43,26.83,14,Medium
+Udupi,88.61,55,37.45,30.33,24,Medium
+Kolar,128.17,87,58.17,39.92,12,Medium
+Vijayanagara,309.56,73,20.6,40.54,7,Medium
+Ballari,32.21,57,56.08,33.35,21,Medium
+Yadgir,235.8,84,59.84,24.82,19,High
+Chikkaballapur,78.8,31,2.23,29.88,16,Low
+Ramanagara,14.57,48,50.95,37.08,19,Medium
+Kodagu,258.37,81,5.8,31.78,17,Medium
+Tumakuru,50.28,65,2.72,25.62,21,Low
+Uttara Kannada,224.67,56,53.02,21.74,11,Medium
+Ramanagara,180.52,64,36.42,40.1,9,Medium
+Mysuru,160.04,87,56.06,29.0,7,Medium
+Belagavi,282.02,48,56.28,33.19,1,Medium
+Raichur,0.42,81,59.9,21.47,18,Medium
+Ballari,123.97,64,56.57,38.53,2,Medium
+Dharwad,184.35,35,33.72,33.53,10,Medium
+Mysuru,129.47,41,26.09,18.45,24,Medium
+Mangaluru,249.27,32,42.09,36.46,2,Medium
+Kodagu,282.26,32,39.87,29.75,21,High
+Mysuru,155.07,76,23.28,25.03,3,Low
+Ballari,276.77,98,56.41,28.12,13,High
+Bagalkot,84.26,30,15.23,40.84,7,Low
+Bengaluru Rural,55.44,77,57.6,41.53,0,Low
+Vijayanagara,8.88,34,4.95,32.12,8,Low
+Haveri,190.65,72,47.83,36.35,21,Medium
+Chamarajanagar,134.02,93,44.12,22.59,10,Medium
+Mangaluru,160.24,50,36.03,19.86,13,Medium
+Mysuru,232.84,83,57.38,22.25,23,High
+Bengaluru Urban,163.63,71,6.3,21.85,15,Medium
+Bagalkot,153.7,83,10.49,23.19,25,Medium
+Mandya,295.04,97,20.24,25.51,0,Medium
+Belagavi,326.05,62,58.4,20.82,23,High
+Dharwad,18.08,92,48.06,41.86,15,Medium
+Mangaluru,214.52,83,10.44,33.96,8,Medium
+Bagalkot,53.96,94,21.13,33.82,0,Low
+Dharwad,344.53,49,31.31,29.64,22,Medium
+Shivamogga,224.93,82,40.41,18.35,17,High
+Bengaluru Urban,131.89,64,31.05,36.91,15,Medium
+Ramanagara,43.18,99,57.21,30.18,19,Medium
+Ramanagara,247.52,83,45.94,39.93,22,High
+Bidar,36.41,47,47.91,34.7,0,Low
+Tumakuru,347.59,49,33.29,35.56,3,Medium
+Davanagere,17.8,42,6.57,35.24,5,Low
+Mangaluru,213.3,56,48.04,21.06,4,Medium
+Yadgir,294.66,44,2.76,25.61,4,Low
+Kalaburagi,165.05,82,28.92,31.62,14,Medium
+Koppal,231.53,69,41.41,26.09,24,High
+Bengaluru Rural,302.93,67,56.16,40.53,20,High
+Uttara Kannada,32.06,60,10.45,23.7,13,Low
+Raichur,333.72,76,24.59,35.98,23,Medium
+Haveri,337.52,85,12.1,40.73,19,Medium
+Hassan,168.71,54,18.09,33.26,9,Low
+Bengaluru Urban,103.83,65,57.32,18.18,7,Medium
+Tumakuru,89.59,90,24.34,26.49,19,Medium
+Belagavi,130.01,34,53.77,22.84,7,Medium
+Kolar,271.46,90,9.33,40.87,20,Medium
+Mangaluru,220.39,49,41.3,35.6,13,High
+Haveri,308.81,39,49.07,32.64,2,Medium
+Gadag,89.26,83,42.32,26.91,3,Medium
+Bagalkot,328.86,68,2.25,38.87,15,Medium
+Mandya,78.14,91,6.92,30.4,0,Low
+Uttara Kannada,285.07,85,1.53,19.51,14,Medium
+Mangaluru,302.45,42,24.33,29.22,22,Medium
+Kalaburagi,107.7,86,34.11,36.25,14,Medium
+Ramanagara,233.02,47,20.26,30.04,3,Medium
+Bengaluru Rural,317.75,47,4.5,30.68,23,Medium
+Haveri,153.81,69,19.37,38.7,21,Medium
+Dharwad,115.97,36,8.35,24.18,16,Low
+Mandya,182.19,44,8.36,21.76,21,Medium
+Gadag,295.41,69,54.54,34.64,22,High
+Kalaburagi,222.09,96,35.65,26.52,0,Medium
+Ramanagara,19.59,55,21.74,38.85,16,Medium
+Bengaluru Rural,155.64,73,12.88,19.77,7,Low
+Kolar,4.51,32,41.4,31.52,12,Medium
+Ramanagara,204.1,70,36.56,41.27,9,Medium
+Kodagu,209.1,62,18.91,41.75,6,Low
+Chamarajanagar,63.13,87,0.99,38.2,10,Low
+Haveri,167.28,57,19.17,20.33,13,Medium
+Chitradurga,173.77,37,29.36,21.54,2,Low
+Uttara Kannada,178.19,53,11.33,33.83,4,Low
+Vijayanagara,291.14,50,20.22,37.99,6,Medium
+Chikkamagaluru,246.73,42,20.01,23.03,19,Medium
+Haveri,116.87,44,2.34,41.68,13,Low
+Haveri,268.11,75,8.47,28.56,23,Medium
+Bengaluru Rural,85.27,68,57.28,38.29,7,Medium
+Koppal,155.3,38,50.84,22.41,22,Medium
+Kolar,7.09,77,50.25,26.55,5,Low
+Chikkaballapur,185.8,37,15.52,32.62,1,Low
+Shivamogga,232.47,61,42.17,21.4,8,Medium
+Ramanagara,339.17,55,57.12,28.64,5,Medium
+Chikkaballapur,49.49,86,42.93,28.09,19,Medium
+Bengaluru Urban,230.04,70,29.2,18.09,24,Medium
+Bagalkot,186.96,69,47.83,38.44,3,Medium
+Haveri,338.04,68,2.14,38.38,5,Low
+Yadgir,128.57,90,25.58,39.46,0,Medium
+Bengaluru Rural,339.02,98,39.27,24.82,22,High
+Davanagere,294.75,45,11.65,35.07,9,Medium
+Vijayanagara,161.68,63,52.62,38.43,21,Medium
+Dharwad,154.39,75,4.88,40.0,11,Low
+Bidar,248.68,48,36.57,30.02,20,High
+Kolar,307.19,33,9.49,32.05,7,Medium
+Raichur,114.71,66,45.62,35.09,19,Medium
+Kalaburagi,42.76,96,47.33,27.66,15,Medium
+Chikkamagaluru,144.03,88,59.56,20.28,25,High
+Udupi,92.03,66,49.99,28.38,25,Medium
+Chikkaballapur,331.27,31,10.74,28.52,12,Medium
+Hassan,145.34,99,43.58,21.39,22,High
+Bengaluru Urban,237.15,42,24.87,18.47,10,Medium
+Bengaluru Rural,125.6,78,9.23,38.22,10,Low
+Mysuru,132.48,86,39.49,35.15,6,Medium
+Koppal,345.04,87,26.58,34.63,25,High
+Bidar,289.19,89,58.6,29.83,14,High
+Gadag,119.86,76,33.63,41.77,2,Low
+Raichur,12.83,81,5.41,36.46,13,Medium
+Koppal,99.7,77,50.26,24.6,7,Medium
+Kodagu,154.02,44,39.14,22.94,22,Medium
+Haveri,332.71,52,37.68,33.37,9,Medium
+Davanagere,337.62,32,39.14,41.68,22,High
+Ramanagara,189.85,80,20.61,23.53,9,Medium
+Mangaluru,22.97,54,34.9,21.53,8,Low
+Kodagu,347.86,60,25.33,41.38,3,Medium
