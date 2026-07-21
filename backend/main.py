@@ -15,7 +15,8 @@ app = FastAPI(
 )
 
 allowed_origins = [
-    os.getenv("FRONTEND_URL", "http://localhost:5173"),
+    "http://localhost:5173",
+    "https://power-outage-predictor-1.onrender.com",
 ]
 
 app.add_middleware(
